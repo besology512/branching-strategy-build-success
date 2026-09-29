@@ -1,0 +1,949 @@
+project,strategy_human,strategy_rule,num_long_lived,l1_lifetime_days,l2_l1_ratio,num_feeder_branches,median_feeder_lifetime_days
+19wu/19wu,Trunk-based,Trunk-based,1,858.1372337962963,0.0215852308328748,1.0,0.0
+AdRoll/goamz,One Branch,One Branch,1,1047.8551967592591,2.045624743903411e-05,0.0,
+AdRoll/hologram,One Branch,One Branch,1,531.5811689814815,0.0304486007448123,0.0,
+AlchemyCMS/alchemy_cms,Feature Branching,Feature Branching,1,1785.1296527777777,0.3916561343758606,2.0,46.47638310185185
+AsyncHttpClient/async-http-client,One Branch,One Branch,2,225.9215046296296,0.8445002356091189,0.0,
+Azure/azure-sdk-for-go,One Branch,One Branch,1,579.0629861111111,0.0518198081902831,0.0,
+BertrandBordage/django-cachalot,Trunk-based,Trunk-based,1,661.1044212962963,0.3035705963551242,1.0,0.0
+Atmosphere/atmosphere,One Branch,One Branch,1,1563.2560532407408,0.2488935076251955,0.0,
+Axelrod-Python/Axelrod,Trunk-based,Trunk-based,1,187.650625,0.0425120831944017,20.0,0.1331770833333333
+BBC-News/wraith,Trunk-based,Trunk-based,1,957.831226851852,0.2228204274853281,6.0,0.0356018518518518
+BuildCraft/BuildCraft,Feature Branching,Feature Branching,1,683.0152893518518,0.3862720082743118,3.0,144.72241898148147
+CartoDB/cartodb,Trunk-based,Trunk-based,1,986.2194097222222,0.114280747359706,154.0,0.9676331018518518
+CellProfiler/CellProfiler,Trunk-based,Trunk-based,1,392.3088888888889,0.4844472810068408,17.0,0.0
+Charcoal-SE/SmokeDetector,One Branch,One Branch,1,613.1566550925926,0.0305025781600168,0.0,
+CloudSlang/cloud-slang,Trunk-based,Trunk-based,1,604.7530439814815,0.2283475139827412,41.0,3.7628472222222222
+CloudifySource/cloudify,Trunk-based,Trunk-based,1,808.8384490740741,0.4006232674593576,2.0,0.0
+CodementorIO/rest-firebase,Trunk-based,Trunk-based,1,737.0954282407407,0.0071916413029149,2.0,0.0
+CycloneAxe/phphub-android,One Branch,One Branch,1,184.09201388888889,,0.0,
+DSpace/DSpace,One Branch,One Branch,3,1129.520486111111,0.8720760417732984,0.0,
+DataDog/dd-agent,Git Flow,Trunk-based,1,1608.1478240740742,0.2775005309334326,57.0,2.970833333333333
+DiUS/java-faker,One Branch,One Branch,1,962.2420949074074,0.1140264532402303,0.0,
+DroidPlanner/Tower,Git Flow,One Branch,3,691.2405324074074,0.7636679840668905,0.0,
+FGRibreau/mailchecker,One Branch,One Branch,1,167.93917824074074,0.0,0.0,
+FasterXML/jackson-databind,One Branch,One Branch,1,923.2924768518518,0.5555937906899461,0.0,
+FiloSottile/gvt,Trunk-based,Trunk-based,1,259.8740509259259,0.0,1.0,0.0
+Flexget/Flexget,Trunk-based,Trunk-based,2,1353.0151041666666,0.7028281614352307,8.0,0.0
+Flolagale/mailin,One Branch,One Branch,1,536.1527430555556,0.0443183200993653,0.0,
+FreeOpcUa/python-opcua,Trunk-based,Trunk-based,1,493.7023032407407,0.2013490098281646,9.0,4.170127314814815
+Fullscreen/yt,Trunk-based,Trunk-based,1,133.80002314814814,0.3424459111087044,2.0,0.0
+GeoNode/geonode,One Branch,One Branch,1,1435.022002314815,0.0934685065522087,0.0,
+Go-SQL-Driver/MySQL,One Branch,One Branch,1,68.27695601851852,0.2790294974054644,0.0,
+GoClipse/goclipse,Trunk-based,Trunk-based,2,743.0902083333333,0.8871291422951397,3.0,0.0055671296296296
+GoogleCloudPlatform/PerfKitBenchmarker,Trunk-based,Trunk-based,1,432.08033564814815,0.3912320617460622,13.0,2.968773148148148
+Grarak/KernelAdiutor,One Branch,One Branch,1,331.99953703703704,,0.0,
+Graylog2/graylog2-server,Trunk-based,Trunk-based,1,1598.1857060185184,0.2774380410889098,46.0,0.0247627314814814
+Guake/guake,One Branch,One Branch,1,924.8483564814816,0.2884915016973879,0.0,
+HelloZeroNet/ZeroNet,One Branch,One Branch,1,343.9496875,0.0,0.0,
+Homebrew/homebrew-php,One Branch,One Branch,1,317.7575578703704,,0.0,
+Homebrew/homebrew-science,One Branch,One Branch,1,607.6178935185185,0.0,0.0,
+Imgur/mandible,Trunk-based,Trunk-based,1,500.94944444444445,0.4222924422772017,3.0,1.8399421296296297
+JEG2/highline,Trunk-based,Trunk-based,1,524.5399537037038,0.2460101722294041,2.0,0.9523842592592592
+JabRef/jabref,Trunk-based,Trunk-based,1,895.8827083333333,0.2057858929894122,40.0,0.0696122685185185
+JakeWharton/ActionBarSherlock,Feature Branching,Feature Branching,1,803.0781597222223,0.453983344438607,1.0,364.5841087962963
+JakeWharton/RxRelay,One Branch,One Branch,1,103.70532407407408,0.0,0.0,
+JakeWharton/ViewPagerIndicator,One Branch,One Branch,1,24.293587962962963,0.0,0.0,
+JakeWharton/butterknife,Trunk-based,Trunk-based,1,1270.4303587962963,0.0296598603584526,1.0,0.0
+JakeWharton/dex-method-list,One Branch,One Branch,1,0.583761574074074,0.0,0.0,
+JakeWharton/u2020,One Branch,One Branch,1,939.5738425925924,0.0024568984313465,0.0,
+JuanPotato/Legofy,One Branch,One Branch,1,87.86975694444445,,0.0,
+JuanitoFatas/fast-ruby,One Branch,One Branch,1,599.6556018518519,1.0422649235158975e-05,0.0,
+Julian/jsonschema,Trunk-based,Trunk-based,1,1434.302511574074,0.0048916536466294,3.0,0.2511342592592592
+Kapeli/Dash-User-Contributions,One Branch,One Branch,1,829.5473958333333,,0.0,
+Kapeli/cheatsheets,One Branch,One Branch,1,910.0197685185184,,0.0,
+Karumi/Rosie,One Branch,One Branch,1,99.9112962962963,0.0010205812192667,0.0,
+Katello/katello,One Branch,One Branch,1,390.25340277777775,0.2513676565920754,0.0,
+KeepSafe/aiohttp,Trunk-based,Trunk-based,1,1055.8965972222222,0.2653846072057464,16.0,0.1394444444444444
+Kinto/kinto,Trunk-based,Trunk-based,1,545.0281828703704,0.3701413036426612,31.0,0.0041435185185185
+LLNL/spack,Trunk-based,Trunk-based,1,275.5412152777778,0.427934442656857,12.0,0.0
+LyndonChin/MasteringAndroidDataBinding,One Branch,One Branch,1,208.9321527777778,,0.0,
+MDAnalysis/mdanalysis,Trunk-based,Trunk-based,1,468.38519675925926,0.5363323125471401,19.0,0.0
+Microsoft/malmo,Trunk-based,Trunk-based,1,54.648854166666666,0.091024959225154,1.0,2.2094791666666667
+Mindwerks/worldengine,Trunk-based,Trunk-based,1,388.139837962963,0.0822017837810339,3.0,0.0843287037037037
+MiniProfiler/rack-mini-profiler,Trunk-based,Trunk-based,1,1033.0469675925926,0.0,2.0,0.0
+MongoEngine/mongoengine,Feature Branching,Feature Branching,1,1557.682800925926,0.1733721520735253,1.0,32.27994212962963
+NARKOZ/gitlab,Trunk-based,Trunk-based,1,1439.8227777777777,0.0052365787558988,2.0,3.769872685185186
+NLPchina/elasticsearch-sql,One Branch,One Branch,1,619.528125,0.2345492191544378,0.0,
+NVIDIA/DIGITS,Feature Branching,Feature Branching,1,448.0245717592592,0.1559243492840213,2.0,26.54945601851852
+NebulousLabs/Sia,Trunk-based,Trunk-based,1,593.2512615740741,0.1027954104684697,3.0,0.0
+Netflix/Hystrix,One Branch,One Branch,1,728.2296643518519,0.3303759403969319,0.0,
+Netflix/spectator,One Branch,One Branch,1,614.083287037037,0.0001086948409021,0.0,
+NoamB/sorcery,Trunk-based,Trunk-based,1,1650.2505787037037,0.0837491149807847,2.0,0.7129918981481481
+OneBusAway/onebusaway-android,Trunk-based,Trunk-based,1,941.4851388888889,0.3738773462671934,1.0,1.2194328703703703
+OpenBazaar/OpenBazaar-Server,Feature Branching,Feature Branching,1,388.38086805555554,0.1031777315527096,2.0,30.15454282407408
+OpenGamma/Strata,Trunk-based,Trunk-based,1,412.9682523148148,0.4941723139925029,52.0,0.0
+OpenRefine/OpenRefine,One Branch,One Branch,1,1168.8878703703704,3.742873983809714e-06,0.0,
+OpenSlides/OpenSlides,One Branch,One Branch,1,1375.8629282407408,0.3216314236191013,0.0,
+OryxProject/oryx,One Branch,One Branch,1,760.9507175925926,0.3586689238738906,0.0,
+Pierry/SimpleToast,One Branch,One Branch,1,448.7478009259259,0.0016319330977841,0.0,
+PuerkitoBio/fetchbot,One Branch,One Branch,1,668.177488425926,0.0243591541287465,0.0,
+PuerkitoBio/goquery,One Branch,One Branch,1,914.5737268518518,0.0007746854339269,0.0,
+Pylons/pyramid,Git Flow,Git Flow,4,1529.0287962962964,0.8997072382123947,15.0,1.6924768518518518
+QubitProducts/bamboo,Trunk-based,Trunk-based,1,720.2831018518518,0.0867460325367179,5.0,0.0055787037037037
+RS485/LogisticsPipes,One Branch,One Branch,1,1078.4350925925926,0.373037472678819,0.0,
+RUB-NDS/WS-Attacker,One Branch,One Branch,1,0.0062847222222222,,0.0,
+Rajawali/Rajawali,Feature Branching,Feature Branching,2,532.4469907407407,0.6442068872270802,1.0,22.28375
+ReactiveX/RxAndroid,One Branch,One Branch,2,365.3749305555556,0.9048722275830692,0.0,
+ReactiveX/RxPY,One Branch,One Branch,2,744.9289004629629,0.9971010625128484,0.0,
+Rican7/retry,One Branch,One Branch,1,0.8289467592592593,0.0041328660588374,0.0,
+SciTools/iris,One Branch,Trunk-based,1,1292.902800925926,0.2334968644075944,1.0,0.0
+SheffieldML/GPy,Feature Branching,Feature Branching,2,1261.9171527777778,0.7964758702958962,6.0,17.409618055555555
+Shopify/liquid,Trunk-based,Trunk-based,1,1869.9417592592592,0.427850799324261,26.0,0.0
+Shopify/sarama,Trunk-based,Trunk-based,1,1063.9456944444444,0.3058403604820578,41.0,0.0
+SickRage/SickRage,Trunk-based,Trunk-based,1,291.404224537037,0.5638293980794228,22.0,0.0039872685185185
+SilenceIM/Silence,Git Flow,Git Flow,3,497.7863773148149,0.7470845404619242,4.0,0.0
+SoCo/SoCo,Trunk-based,Trunk-based,1,951.9975694444444,0.243762293685828,1.0,0.0
+SonarSource/sonar-java,Trunk-based,Trunk-based,1,476.8179398148148,0.5655619440897133,76.0,0.0
+SpongePowered/SpongeCommon,Trunk-based,Trunk-based,1,498.5826388888889,0.4869953344596743,7.0,0.0
+SpongePowered/SpongeForge,Trunk-based,Trunk-based,2,722.8365856481481,0.5880518528781631,8.0,0.0
+StackStorm/st2,Trunk-based,Git Flow,4,656.0971643518518,0.7430284072331131,1.0,0.0
+TakWolf/CNode-Material-Design,One Branch,One Branch,1,51.99378472222222,,0.0,
+The-Compiler/qutebrowser,Trunk-based,Trunk-based,2,448.5076504629629,0.7869768520660634,8.0,0.0493634259259259
+TheThingsNetwork/ttn,Git Flow,Trunk-based,1,176.30253472222222,0.4487967501675196,9.0,0.0
+Theano/Theano,Trunk-based,Trunk-based,1,1490.1690509259258,0.0892093432166059,2.0,0.0
+Thibaut/devdocs,One Branch,One Branch,1,545.9431597222223,,0.0,
+TwidereProject/Twidere-Android,Trunk-based,Trunk-based,1,475.81357638888886,0.4221455439395676,20.0,0.0
+TykTechnologies/tyk,Trunk-based,Trunk-based,1,650.5663310185186,0.5376484566127044,5.0,0.7280439814814815
+Unode/firefox_decrypt,One Branch,Trunk-based,1,71.73109953703704,0.0,1.0,0.0
+Valloric/YouCompleteMe,Feature Branching,Feature Branching,1,1230.739965277778,0.3506539506264547,3.0,17.07384259259259
+YaleSTC/reservations,Trunk-based,Trunk-based,1,769.9859375,0.4589293470291702,34.0,0.669525462962963
+Yelp/dockersh,One Branch,One Branch,1,732.8252083333333,0.0058106549775066,0.0,
+Yelp/mrjob,One Branch,Trunk-based,1,1318.0775694444444,0.1501125262203646,1.0,0.0
+Yelp/paasta,Trunk-based,Trunk-based,1,295.1503125,0.0912138028226123,39.0,0.0073148148148148
+aasm/aasm,Trunk-based,Trunk-based,1,1515.0799189814816,0.2386374160298428,4.0,0.4922222222222222
+activeadmin/activeadmin,Trunk-based,Trunk-based,1,1907.7916203703703,0.2549170253302617,11.0,0.0
+activemerchant/active_merchant,Trunk-based,Trunk-based,1,1889.0362384259256,0.1471923718989789,4.0,0.0
+activerecord-hackery/ransack,Trunk-based,Trunk-based,1,1871.4759490740744,0.2750748224183969,1.0,0.0
+activerecord-hackery/squeel,Trunk-based,Trunk-based,1,1313.9373958333333,0.1404465943298375,1.0,0.0
+adhearsion/adhearsion,One Branch,One Branch,2,1686.0562037037037,0.9873023185214104,0.0,
+airbnb/aerosolve,Trunk-based,Trunk-based,1,341.08221064814813,0.5014035017828431,16.0,0.524988425925926
+airlift/slice,One Branch,One Branch,1,1069.8597453703703,0.0,0.0,
+alexreisner/geocoder,Trunk-based,Trunk-based,1,1466.5285300925923,0.4028722165396496,1.0,0.0
+alibaba/druid,One Branch,One Branch,1,131.23631944444443,0.0,0.0,
+alibaba/fastjson,One Branch,One Branch,2,139.76688657407408,0.9925194555517748,0.0,
+allegro/ralph,One Branch,One Branch,2,936.1328472222224,0.7614281532879342,0.0,
+alvations/pywsd,One Branch,One Branch,1,0.0040393518518518,,0.0,
+amatriain/feedbunch,Trunk-based,Trunk-based,2,621.0838425925926,0.9627711555016838,44.0,0.9704513888888888
+amatsuda/kaminari,One Branch,One Branch,1,1692.0116435185184,0.1464856311526947,0.0,
+amatsuda/traceroute,One Branch,One Branch,1,105.70627314814814,,0.0,
+amoffat/snake,One Branch,One Branch,1,131.8409375,0.0,0.0,
+android10/Android-CleanArchitecture,One Branch,One Branch,1,696.6995486111111,0.0,0.0,
+ankane/pghero,One Branch,One Branch,1,188.703738425926,0.1841724391243058,0.0,
+ankane/searchkick,One Branch,One Branch,1,1114.9162037037038,0.0959922976274167,0.0,
+ankidroid/Anki-Android,Trunk-based,Trunk-based,1,752.9469097222222,0.4447478151933668,6.0,0.0
+ansible/ansible,Trunk-based,Trunk-based,2,442.6553935185185,0.951272421439364,4.0,0.0
+ansible/ansible-modules-core,Trunk-based,Trunk-based,2,434.6893865740741,0.7814024983729468,1.0,0.0
+ansible/ansible-modules-extras,One Branch,One Branch,2,465.4459259259259,0.7322375386328046,0.0,
+ant0ine/go-json-rest,Feature Branching,Feature Branching,1,1277.7870138888889,0.0163388583477449,1.0,12.057141203703704
+ant0ine/go-urlrouter,One Branch,One Branch,1,308.8372453703704,,0.0,
+antage/eventsource,Feature Branching,Feature Branching,1,567.1395138888889,0.3278759794676231,1.0,185.95142361111112
+antha-lang/antha,Trunk-based,Trunk-based,1,427.0844907407408,0.1355956758924772,13.0,2.0662037037037035
+antirez/redis-doc,One Branch,One Branch,1,1293.4305092592592,0.0146732155970955,0.0,
+antlr/antlr4,One Branch,One Branch,1,426.4160185185185,0.0020656937571615,0.0,
+apache/commons-lang,Trunk-based,Trunk-based,1,491.0386111111111,0.0,1.0,0.0
+apache/cordova-android,One Branch,One Branch,1,567.7209027777777,0.0857245240197128,0.0,
+apache/drill,Trunk-based,Trunk-based,1,910.4568055555555,0.2206788162454266,7.0,0.0
+apache/hive,One Branch,One Branch,4,144.09488425925926,0.9922058173152688,0.0,
+apache/jackrabbit-oak,Trunk-based,Trunk-based,1,1534.7678819444443,0.5675347366173759,27.0,0.0
+apache/libcloud,Trunk-based,Trunk-based,1,1067.4790277777777,0.480595236344959,4.0,0.4646412037037037
+apache/mahout,One Branch,One Branch,1,129.8314699074074,,0.0,
+apache/nifi,One Branch,One Branch,1,282.17199074074074,0.5246546916568976,0.0,
+apache/parquet-mr,One Branch,One Branch,1,800.7067939814815,0.1600212381806716,0.0,
+apache/pdfbox,One Branch,One Branch,2,804.0525347222223,0.989982588058446,0.0,
+apache/sling,Trunk-based,One Branch,1,1042.2794675925925,0.2559107061305912,0.0,
+apache/tajo,Feature Branching,Feature Branching,1,844.4495486111111,0.4477099583320775,1.0,378.0684722222222
+apache/zeppelin,One Branch,One Branch,1,522.6079166666667,0.3669943103192137,0.0,
+ark-lang/ark,Trunk-based,Trunk-based,1,63.96371527777778,0.0229182669210788,1.0,0.0730787037037037
+arkenio/gogeta,One Branch,One Branch,1,608.0126273148148,0.0123779676770617,0.0,
+arsduo/koala,Trunk-based,Trunk-based,1,1772.960636574074,0.3792977023634203,5.0,0.0
+asciidoctor/asciidoctorj,Trunk-based,Trunk-based,1,1232.1888541666667,0.4609323514800243,1.0,0.0
+asciimoo/searx,One Branch,One Branch,1,940.3257175925926,0.0125421104207119,0.0,
+astaxie/beego,One Branch,Feature Branching,2,236.30136574074075,0.9523156781804936,1.0,225.0334953703704
+aws/aws-cli,Trunk-based,Trunk-based,2,1335.0963194444444,0.9999495978936602,1.0,2.004837962962963
+aws/aws-sdk-go,Trunk-based,Trunk-based,1,621.9523958333333,0.0881191838268704,22.0,0.0
+aws/aws-sdk-ruby,Trunk-based,Trunk-based,1,1383.9857407407408,0.1869888036739834,18.0,0.0031770833333333
+basho/riak-java-client,One Branch,One Branch,1,1369.5151851851851,0.0621366567000866,0.0,
+bazelbuild/bazel,One Branch,One Branch,1,122.71309027777778,,0.0,
+bbatsov/rubocop,One Branch,Trunk-based,1,1349.2767361111112,0.0096630473579337,1.0,0.0
+beetbox/beets,Trunk-based,Trunk-based,1,1625.417511574074,0.0068296982357232,1.0,2.178472222222222
+ben-manes/caffeine,One Branch,Trunk-based,1,623.0247800925926,1.8502920182507906e-05,1.0,0.0
+benoitc/gunicorn,One Branch,Trunk-based,1,1518.9002546296297,0.0266743614802565,1.0,0.0
+berkshelf/berkshelf,Trunk-based,Trunk-based,1,1404.8941319444446,0.2789418452703529,7.0,0.0
+bgruening/docker-galaxy-stable,One Branch,One Branch,2,267.8730208333333,0.668991393059583,0.0,
+biezhi/blade,One Branch,One Branch,1,419.2170833333333,0.2196732412017154,0.0,
+binarylogic/authlogic,One Branch,Trunk-based,1,854.6367824074074,0.0,1.0,0.0
+binux/pyspider,One Branch,One Branch,1,906.6947106481482,0.1227053038838935,0.0,
+biocore/scikit-bio,One Branch,One Branch,1,974.0419328703704,0.0,0.0,
+biolab/orange3,Trunk-based,Trunk-based,1,726.4144791666666,0.2805587425847697,2.0,0.0005034722222222
+bitsquare/bitsquare,One Branch,One Branch,1,269.5739814814815,0.2287970491162496,0.0,
+blaze/odo,One Branch,One Branch,1,605.0466435185185,0.0052509917069065,0.0,
+blevesearch/bleve,Trunk-based,Trunk-based,1,611.1397800925926,0.1781740845225878,1.0,0.0
+bluelinelabs/LoganSquare,One Branch,One Branch,1,102.70424768518518,0.4022677485367629,0.0,
+blueman-project/blueman,Git Flow,Git Flow,3,298.5183564814815,0.7844791013766834,2.0,103.38729166666666
+blynkkk/blynk-server,Trunk-based,Trunk-based,1,527.0672916666666,0.1085567953385669,2.0,0.5745081018518519
+borgbackup/borg,One Branch,One Branch,1,471.673125,0.4048960313117031,0.0,
+bosun-monitor/bosun,One Branch,Trunk-based,1,521.0002662037037,0.0,1.0,0.0
+boto/boto,One Branch,Feature Branching,2,1485.7358333333334,0.9899709175781272,2.0,735.4176331018518
+boto/botocore,One Branch,One Branch,2,1341.9794560185185,0.9948272066488986,0.0,
+brentp/vcfanno,Trunk-based,Trunk-based,1,480.9988078703704,0.0225824460516271,1.0,1.0032291666666666
+brettwooldridge/HikariCP,One Branch,Git Flow,3,1029.6589467592592,0.8424595891396214,1.0,639.9506597222222
+brianmario/mysql2,Trunk-based,Trunk-based,2,1763.1988425925929,0.634598193860354,3.0,0.022037037037037
+brigade/haml-lint,Trunk-based,Trunk-based,1,1075.2909143518518,0.2422260190462023,1.0,0.0
+brigade/overcommit,One Branch,One Branch,1,1179.9219560185186,0.0414547780285648,0.0,
+btcsuite/btcd,One Branch,One Branch,1,990.073449074074,0.0,0.0,
+bugsnag/bugsnag-android,Trunk-based,Trunk-based,1,630.0659143518518,0.0429630607982207,5.0,0.0
+bumptech/glide,One Branch,One Branch,2,707.7518287037037,0.6164682450583042,0.0,
+bundler/bundler,Feature Branching,Feature Branching,2,1178.5869212962964,0.9028828956050338,1.0,141.81719907407407
+burke/zeus,Feature Branching,Feature Branching,1,1450.0782291666667,0.0092755611947787,2.0,7.289108796296296
+bwaldvogel/mongo-java-server,Trunk-based,Trunk-based,1,1256.6964351851852,0.0,1.0,0.0
+byt3bl33d3r/MITMf,One Branch,One Branch,1,178.23589120370372,0.002038237274118,0.0,
+caelum/vraptor4,Trunk-based,Trunk-based,1,1016.2986805555556,0.1239696094007432,110.0,0.0
+caesar0301/treelib,Feature Branching,Feature Branching,1,1023.1749421296296,0.1696061013786799,2.0,86.76835648148148
+calabash/calabash-ios,Trunk-based,Trunk-based,2,737.3901273148148,0.9691833719044176,53.0,0.0
+camlistore/camlistore,One Branch,One Branch,1,278.0625578703704,0.0,0.0,
+capensis/canopsis,Feature Branching,Feature Branching,2,853.2978935185185,0.9517176128381416,3.0,67.16140046296296
+capistrano/capistrano,Trunk-based,Trunk-based,1,1833.738391203704,0.1355802657666601,3.0,0.0
+carrierwaveuploader/carrierwave,Trunk-based,Trunk-based,1,1190.9958680555555,0.1604048424966645,6.0,0.0
+carymrobbins/intellij-haskforce,Trunk-based,Trunk-based,1,816.6598842592592,0.5257439921482342,7.0,0.0
+caskdata/hadoop_cookbook,Trunk-based,Trunk-based,2,823.703275462963,0.7318472920181796,11.0,0.0840972222222222
+caskroom/homebrew-versions,One Branch,One Branch,1,355.8700347222222,8.325969241202711e-06,0.0,
+catarse/catarse,One Branch,Feature Branching,1,762.1952314814815,0.2921165302439949,1.0,222.6498263888889
+cayleygraph/cayley,One Branch,One Branch,1,795.7286921296296,0.0,0.0,
+cburmeister/flask-bones,Trunk-based,Trunk-based,1,796.6878587962963,0.0040735492406343,2.0,1.622673611111111
+ccrama/Slide,Trunk-based,Trunk-based,1,213.30875,0.3389131321339329,1.0,0.1985185185185185
+cea-sec/ivre,One Branch,One Branch,1,520.9326736111111,0.0,0.0,
+celery/celery,Trunk-based,Trunk-based,2,1546.118148148148,0.6662976770497392,8.0,0.0
+celluloid/celluloid,Trunk-based,Trunk-based,1,1634.3397453703703,0.3345966162544658,16.0,0.0436284722222222
+celluloid/celluloid-io,Trunk-based,Trunk-based,1,1562.0363310185185,0.0750471071271008,2.0,5.012083333333333
+cemoody/lda2vec,One Branch,One Branch,1,148.5115625,0.3537983660238451,0.0,
+centrifugal/centrifugo,Trunk-based,Trunk-based,1,352.7941319444444,0.1699970404915284,5.0,0.9805787037037036
+ceph/calamari,Git Flow,Git Flow,5,712.2312615740741,0.7301813528400193,11.0,0.0
+ceph/ceph-ansible,Trunk-based,Trunk-based,1,257.94619212962965,0.2288042685474302,12.0,0.0
+cerebris/jsonapi-resources,Trunk-based,Trunk-based,1,711.1929976851852,0.2947626229564222,21.0,0.0316898148148148
+certbot/certbot,Feature Branching,Feature Branching,1,636.2249305555556,0.4350256542524759,1.0,7.468310185185185
+cfg4j/cfg4j,Trunk-based,Trunk-based,1,437.8770023148148,0.3671344531602437,8.0,0.4752372685185185
+cgrates/cgrates,One Branch,One Branch,1,1484.0635995370371,,0.0,
+cgriego/active_attr,Trunk-based,Trunk-based,1,1735.4497453703705,0.0,1.0,0.0
+charliesome/better_errors,Trunk-based,Trunk-based,1,1216.775138888889,9.321847751549396e-06,1.0,0.0
+checkstyle/checkstyle,Trunk-based,Trunk-based,1,1072.4400462962965,0.0,1.0,0.0
+chef/inspec,Trunk-based,Trunk-based,2,292.6810648148148,0.7089034866197894,42.0,0.0
+chef/supermarket,Trunk-based,Trunk-based,1,1017.0043171296296,0.3584263846434516,4.0,0.0060127314814814
+chrippa/livestreamer,One Branch,One Branch,2,1170.7705092592594,0.8502093904366478,0.0,
+chrislusf/glow,One Branch,One Branch,1,237.53663194444445,0.0,0.0,
+circus-tent/circus,Trunk-based,Trunk-based,1,1632.5282523148148,0.5578631335154776,3.0,0.0778356481481481
+cloudera/oryx,One Branch,One Branch,1,579.6627430555556,0.4655202305635055,0.0,
+cloudflare/cfssl,Trunk-based,Trunk-based,1,731.0713888888889,0.1298245402390783,6.0,0.0
+cloudflare/redoctober,Trunk-based,Trunk-based,1,1001.2013773148147,0.0099650883540964,4.0,0.0
+cloudfoundry/bosh,Trunk-based,Trunk-based,2,1314.092835648148,0.8563115744692237,15.0,1.5594444444444444
+cloudfoundry/cli,One Branch,One Branch,1,1085.962083333333,,0.0,
+cloudfoundry/cloud_controller_ng,Trunk-based,Trunk-based,1,1322.1246643518518,0.3454555658697892,35.0,0.0
+cloudfoundry/loggregator,Trunk-based,Trunk-based,2,967.3060532407408,0.6235014835673287,3.0,0.1812268518518518
+cloudfoundry/uaa,Trunk-based,Trunk-based,2,1303.9076157407408,0.9856259076949416,12.0,0.0
+coddingtonbear/inthe.am,Trunk-based,Trunk-based,2,828.950625,0.9991440259965,4.0,0.7046122685185185
+codelucas/newspaper,One Branch,One Branch,1,136.720625,,0.0,
+codetriage/codetriage,Trunk-based,Trunk-based,1,1340.9871990740742,0.0893278215932924,21.0,0.0
+colinsurprenant/redstorm,Feature Branching,Feature Branching,1,901.6319675925926,0.2507474422472769,2.0,45.03075810185185
+collective/collective.developermanual,One Branch,One Branch,1,354.5281597222222,0.0021249552703281,0.0,
+collectiveidea/interactor,Trunk-based,Trunk-based,1,1027.1255787037037,0.0001665809328329,1.0,0.171099537037037
+comfy/comfortable-mexican-sofa,One Branch,One Branch,1,1670.820474537037,,0.0,
+constabulary/gb,One Branch,One Branch,1,255.121863425926,0.0072957145706828,0.0,
+consul/consul,Git Flow,Git Flow,3,411.6620717592593,0.7380688262855385,36.0,0.1156712962962963
+containous/traefik,Trunk-based,Trunk-based,1,190.32753472222225,0.3364412797407782,5.0,0.0
+convox/rack,Trunk-based,Trunk-based,1,349.4729050925926,0.5869742855800132,76.0,0.0307407407407407
+coreos/clair,One Branch,One Branch,1,257.9992361111111,0.3721927291810278,0.0,
+coreos/flannel,One Branch,One Branch,1,713.2213310185185,1.979802027262101e-06,0.0,
+coreos/fleet,One Branch,One Branch,1,994.650775462963,0.0029890678990521,0.0,
+coreos/rkt,One Branch,One Branch,1,636.8858564814815,0.4297617105280326,0.0,
+coreos/torus,One Branch,One Branch,1,89.68394675925926,0.0,0.0,
+cortesi/devd,One Branch,One Branch,1,193.8398611111111,0.0,0.0,
+crowbar/barclamp-crowbar,One Branch,One Branch,2,439.97976851851854,0.8956403771932695,0.0,
+crsmithdev/arrow,One Branch,One Branch,1,1205.0648148148148,0.0078537154141086,0.0,
+ctran/annotate_models,One Branch,One Branch,1,1825.257048611111,0.5466492229034027,0.0,
+cuckoosandbox/cuckoo,One Branch,One Branch,1,867.4741782407407,0.0439561194644909,0.0,
+cucumber/cucumber-ruby,One Branch,One Branch,1,1892.753113425926,0.5771147137722279,0.0,
+cyfdecyf/cow,One Branch,One Branch,2,1217.0366898148147,0.999996823644864,0.0,
+cymcsg/UltimateRecyclerView,One Branch,One Branch,2,554.9489467592592,0.9244816668466898,0.0,
+cython/cython,One Branch,One Branch,1,1349.0399189814814,0.0039054952395028,0.0,
+daimajia/AndroidImageSlider,One Branch,One Branch,1,349.56738425925926,0.0002368999618642,0.0,
+daimajia/AndroidViewAnimations,Trunk-based,Trunk-based,1,603.3921875,0.000588532215195,1.0,0.3551157407407407
+daimajia/EverMemo,One Branch,One Branch,1,116.48450231481482,,0.0,
+dalen/puppet-puppetdbquery,Trunk-based,Trunk-based,2,1160.540949074074,0.8292311760984546,1.0,0.0
+dangdangdotcom/elastic-job,Feature Branching,Feature Branching,1,224.15940972222225,0.2905162718764181,1.0,65.12195601851852
+danielquinn/paperless,One Branch,One Branch,1,188.9318171296296,0.5587689047875087,0.0,
+datastax/java-driver,Git Flow,Git Flow,3,511.8831134259259,0.9864807460995112,17.0,0.0
+datastax/python-driver,Trunk-based,Trunk-based,1,958.9372106481482,0.4171512455768361,66.0,0.0
+daviddrysdale/python-phonenumbers,Trunk-based,Trunk-based,1,343.82203703703703,0.0,8.0,0.0
+davidhalter/jedi,Feature Branching,Feature Branching,2,1454.0097569444445,0.9876144467451012,2.0,718.0005208333333
+dbader/schedule,One Branch,One Branch,1,1019.983912037037,1.8575547158798007e-05,0.0,
+ddollar/foreman,Trunk-based,Trunk-based,1,1652.678912037037,0.0043333964696963,1.0,0.0
+deeplearning4j/deeplearning4j,Trunk-based,Trunk-based,1,734.4966898148148,0.4476778899080458,15.0,2.106967592592593
+derekparker/delve,Trunk-based,Trunk-based,1,546.2080902777777,0.0124009853370604,8.0,0.0
+dexafree/MaterialList,One Branch,One Branch,1,532.8240509259259,0.0460630396239047,0.0,
+diafygi/acme-tiny,One Branch,One Branch,2,256.05778935185185,0.9986362399293814,0.0,
+dlew/joda-time-android,One Branch,One Branch,1,347.0630439814815,0.0,0.0,
+docker-java/docker-java,Feature Branching,Feature Branching,1,656.1463888888889,0.1722049484779325,1.0,7.0318402777777775
+docker/docker,Git Flow,Git Flow,3,255.0923032407408,0.8848019564450504,1.0,0.0
+docker/docker-py,Trunk-based,Trunk-based,1,1045.115949074074,0.0382505184111571,25.0,0.0
+docker/machine,One Branch,One Branch,2,635.5281828703704,0.620141820283453,0.0,
+docker/swarm,Trunk-based,Trunk-based,2,773.6944791666666,0.7443430654832335,3.0,0.0
+docopt/docopt,Feature Branching,Feature Branching,1,1407.282013888889,0.1599122408652757,1.0,225.0416203703704
+donnemartin/awesome-aws,One Branch,One Branch,2,251.95716435185184,0.9686391246601432,0.0,
+donnemartin/gitsome,Feature Branching,Feature Branching,2,110.20445601851851,0.9268590104776844,1.0,102.14399305555555
+donnemartin/saws,Feature Branching,Feature Branching,2,367.5295833333333,0.8322373961078215,1.0,305.87186342592594
+doorkeeper-gem/doorkeeper,Trunk-based,Trunk-based,1,1733.0433912037038,0.0436258338058404,2.0,0.1622858796296296
+dpkp/kafka-python,Trunk-based,Trunk-based,1,1053.5042476851852,0.0998101826546318,7.0,0.0
+drapergem/draper,One Branch,One Branch,1,1779.4826851851851,0.0027587475615182,0.0,
+dreamhead/moco,One Branch,One Branch,1,1331.3562037037036,0.0,0.0,
+drewolson/testflight,One Branch,One Branch,1,1334.9746412037036,,0.0,
+dronekit/dronekit-android,Trunk-based,One Branch,2,545.5165972222222,0.907677321831833,0.0,
+dronekit/dronekit-python,One Branch,One Branch,1,416.8299537037037,0.0377186351526462,0.0,
+dropbox/changes,Trunk-based,Trunk-based,1,932.0349189814816,0.0259452084737377,2.0,0.0233912037037037
+dropbox/godropbox,One Branch,One Branch,1,361.12347222222223,0.234803212505418,0.0,
+dropbox/pyston,Feature Branching,Feature Branching,1,633.8664583333333,0.1057927991974299,1.0,67.05850694444445
+dropwizard/dropwizard,Trunk-based,Trunk-based,1,1239.7013425925925,0.1909694386144154,4.0,0.0
+drozdzynski/Steppers,One Branch,One Branch,1,162.8887037037037,,0.0,
+dzhibas/SublimePrettyJson,One Branch,One Branch,1,840.2540277777778,2.804486980816593e-05,0.0,
+eclipsesource/J2V8,One Branch,One Branch,1,134.10439814814814,,0.0,
+education/classroom,Git Flow,Git Flow,4,480.0240162037037,0.8071316840701088,34.0,0.9719560185185184
+edx/configuration,Trunk-based,One Branch,1,890.1611921296296,0.5279562545937665,0.0,
+eivindveg/HotSUploader,Git Flow,Git Flow,3,310.23880787037035,0.6644114843877922,2.0,1.932864583333333
+ekalinin/nodeenv,Trunk-based,Trunk-based,1,486.0079513888889,0.0,3.0,0.0
+ekylibre/ekylibre,Trunk-based,Trunk-based,2,1846.3266550925923,0.7291067612397522,21.0,0.0
+elastic/beats,One Branch,One Branch,1,672.2069791666667,0.3822004710402955,0.0,
+elastic/elasticsearch,One Branch,One Branch,1,540.1656828703703,0.0234550806010201,0.0,
+elastic/logstash,Trunk-based,Trunk-based,1,1076.0879976851852,0.1878610948912246,4.0,0.0
+elastic/logstash-forwarder,One Branch,One Branch,1,687.6962037037038,0.0434003918612317,0.0,
+elves/elvish,One Branch,One Branch,1,915.240914351852,5.120337737426577e-05,0.0,
+emberjs/guides,Git Flow,Git Flow,5,406.4091898148148,0.9702810756149856,13.0,0.0028472222222222
+emirpasic/gods,Trunk-based,Trunk-based,1,520.848738425926,0.0650785640095845,1.0,5.0226041666666665
+emre/storm,Feature Branching,Feature Branching,1,1072.8758680555557,0.076673336283823,1.0,82.26097222222222
+eris-ltd/eris-cli,One Branch,One Branch,3,251.12506944444445,0.7815822000307321,0.0,
+errbit/errbit,Trunk-based,Trunk-based,1,1843.2186921296293,0.1873163512687067,3.0,0.9622106481481482
+errbotio/errbot,Trunk-based,Trunk-based,1,1345.9678819444443,0.1718490304009425,17.0,0.0068171296296296
+essentials/Essentials,Git Flow,Git Flow,4,776.8799189814815,0.7283191571222285,2.0,285.8023553240741
+ethereum/go-ethereum,Feature Branching,Feature Branching,2,964.7974537037036,0.9620434868669662,3.0,127.15457175925926
+ethereum/pyethereum,One Branch,One Branch,3,844.9933449074074,0.8794593289655128,0.0,
+ethereum/webthree-umbrella,One Branch,One Branch,1,55.55552083333333,0.059032328561872,0.0,
+ets-berkeley-edu/calcentral,One Branch,One Branch,2,1384.069050925926,0.9277216653666271,0.0,
+euphoria-io/heim,Feature Branching,Feature Branching,2,494.15328703703705,0.8422477430764239,4.0,100.56590856481482
+eventmachine/eventmachine,Trunk-based,Trunk-based,1,1815.073587962963,0.0010843351813393,1.0,0.1360879629629629
+evonove/django-oauth-toolkit,Trunk-based,Trunk-based,1,1192.482939814815,0.0679029436382766,6.0,0.0
+exercism/cli,One Branch,One Branch,1,1117.035625,0.0217399665562408,0.0,
+expectedbehavior/gauges-android,One Branch,One Branch,1,212.24395833333327,0.0,0.0,
+eyeem/chips-android,Trunk-based,Trunk-based,1,1013.990289351852,0.0001258321642055,1.0,0.0
+fabric/fabric,Trunk-based,Trunk-based,1,1638.1673726851852,0.438444521137028,7.0,0.0036458333333333
+facebook/PathPicker,Trunk-based,Trunk-based,1,473.0389004629629,0.0015638640242789,2.0,0.3698842592592593
+facebook/buck,One Branch,One Branch,1,1031.153564814815,0.0002082125120836,0.0,
+facebook/codemod,One Branch,One Branch,1,536.6744212962963,0.0,0.0,
+facebook/conceal,One Branch,One Branch,1,194.0535879629629,0.0001572804381187,0.0,
+facebook/facebook-android-sdk,One Branch,One Branch,2,481.0509375,0.9999902797696432,0.0,
+facebook/stetho,Trunk-based,Trunk-based,1,547.0013194444444,0.0657948765019652,1.0,0.0106944444444444
+facebookgo/grace,One Branch,One Branch,1,1125.922175925926,,0.0,
+facette/facette,Trunk-based,Trunk-based,1,882.2664351851852,0.120920682239109,4.0,0.3926909722222222
+faif/python-patterns,One Branch,One Branch,1,93.9549074074074,,0.0,
+fail2ban/fail2ban,Git Flow,Git Flow,3,1385.596689814815,0.9244215250426022,6.0,0.5691608796296296
+fairmondo/fairmondo,Trunk-based,Trunk-based,2,1347.6401851851851,0.8285839705812231,5.0,6.086238425925926
+falconry/falcon,One Branch,One Branch,1,1313.7828587962963,0.1066128495447029,0.0,
+fastlane/fastlane,Trunk-based,Trunk-based,2,412.8288773148148,0.9683099459283514,3.0,0.1441782407407407
+fatfreecrm/fat_free_crm,Trunk-based,Trunk-based,1,1800.2031712962962,0.2527995971956715,12.0,0.5083101851851852
+fchollet/keras,One Branch,One Branch,1,358.93060185185186,0.0787281109355065,0.0,
+fdietz/team_dashboard,One Branch,One Branch,1,679.0112962962963,0.0,0.0,
+felipecsl/AsymmetricGridView,One Branch,One Branch,1,1.585625,,0.0,
+fgrehm/vagrant-lxc,Trunk-based,Trunk-based,1,1185.0626041666667,0.2920755114427899,16.0,0.0554456018518518
+flask-admin/flask-admin,One Branch,One Branch,1,1436.9621412037036,0.0176257011590866,0.0,
+flask-restful/flask-restful,Trunk-based,Trunk-based,1,1407.1010185185185,0.0218803800774787,7.0,0.0
+flike/kingshard,One Branch,One Branch,1,411.5626273148148,0.5210897738410104,0.0,
+floragunncom/search-guard,One Branch,One Branch,1,464.2671412037037,0.193415518648579,0.0,
+florent37/MaterialViewPager,Trunk-based,Trunk-based,1,479.86453703703705,0.1356895763599951,1.0,0.0
+fluent/fluentd,One Branch,One Branch,1,1170.1229976851853,0.2624710224798602,0.0,
+flynn-archive/flynn-host,One Branch,One Branch,1,224.67194444444445,0.0359812166463283,0.0,
+flyway/flyway,One Branch,One Branch,1,1176.426655092593,1.1196019946742558e-05,0.0,
+fog/fog,Trunk-based,Trunk-based,1,1475.7825462962962,0.1733431961693393,13.0,0.0
+fortytools/forty_facets,One Branch,One Branch,1,743.2126736111111,4.952223887238796e-06,0.0,
+fossasia/open-event-android,One Branch,One Branch,1,434.6726273148148,0.292898484291938,0.0,
+franela/goblin,Trunk-based,Trunk-based,1,960.1712847222224,0.0172657152377531,3.0,0.6165046296296296
+frappe/erpnext,Trunk-based,Trunk-based,2,978.8067013888888,0.993794326209686,1.0,0.0
+frappe/frappe,Git Flow,One Branch,3,979.196400462963,0.9933918673320664,0.0,
+freakboy3742/pyxero,One Branch,One Branch,1,702.7291898148148,0.0,0.0,
+frogermcs/InstaMaterial,One Branch,One Branch,1,0.0181134259259259,0.0690095846645367,0.0,
+fsouza/go-dockerclient,One Branch,One Branch,1,1177.8424652777778,0.005608025321801,0.0,
+ftomassetti/effectivejava,Trunk-based,Trunk-based,1,85.14732638888889,0.1571141196039707,4.0,1.5219733796296295
+functionaljava/functionaljava,One Branch,One Branch,1,488.3212615740741,0.0072556780354614,0.0,
+ga4gh/server,One Branch,One Branch,2,629.1538773148148,0.6252852821971454,0.0,
+gabrielemariotti/cardslib,Git Flow,Git Flow,3,497.9592476851852,0.8085039868394333,1.0,402.60203703703706
+galaxyproject/galaxy,Trunk-based,Git Flow,3,523.9930208333334,0.8974532655746205,1.0,217.71826388888888
+garethr/garethr-docker,One Branch,One Branch,1,560.8334837962963,0.1815370777616392,0.0,
+gavinlaking/vedeu,Trunk-based,Trunk-based,2,717.6676851851852,0.9999930007324396,7.0,0.9033101851851852
+geeeeeeeeek/WeChatLuckyMoney,Trunk-based,Trunk-based,1,189.7925810185185,0.3314946830052471,1.0,3.1491666666666664
+geopandas/geopandas,Trunk-based,Trunk-based,1,1069.1428703703705,0.2358361249574879,10.0,0.1771412037037037
+geoserver/geoserver,Trunk-based,Trunk-based,1,1067.9066550925927,0.348040447988333,1.0,0.0
+geotools/geotools,One Branch,One Branch,1,1068.1202314814814,0.505838614800829,0.0,
+getantibody/antibody,One Branch,One Branch,1,91.94194444444445,0.0018336349528134,0.0,
+getnikola/nikola,Trunk-based,Trunk-based,1,1351.779907407407,0.5526754060815429,106.0,0.0924768518518518
+getsentry/sentry,Trunk-based,Trunk-based,2,1481.697696759259,0.7195542422437551,68.0,0.0204340277777777
+gevent/gevent,Trunk-based,Trunk-based,1,1248.3422453703704,0.1907482673549375,24.0,0.0
+giampaolo/psutil,Trunk-based,Trunk-based,1,831.661400462963,0.3710764562428689,1.0,3.863449074074074
+gin-gonic/gin,Feature Branching,Feature Branching,2,705.028449074074,0.9238451567606496,1.0,651.3371180555556
+github/gemoji,Trunk-based,Trunk-based,1,608.8479513888889,0.0101634912611882,4.0,0.0024131944444444
+github/hub,Trunk-based,Trunk-based,2,678.0351851851852,0.7306358377556064,18.0,0.0274016203703703
+github/markup,Trunk-based,Trunk-based,1,1067.8008217592592,0.2981277903612707,10.0,0.0960243055555555
+github/pages-gem,Trunk-based,Trunk-based,1,959.9149537037038,0.1031539951721224,6.0,3.0575578703703705
+github/scientist,Trunk-based,Trunk-based,1,502.9567476851852,0.0174269688485427,1.0,0.0
+gleitz/howdoi,One Branch,One Branch,1,1279.6696064814814,2.303654514990098e-05,0.0,
+globaleaks/GlobaLeaks,Trunk-based,Trunk-based,2,1097.9007754629629,0.8598243889825645,5.0,0.0
+globocom/tapioca,One Branch,One Branch,1,109.7754861111111,,0.0,
+go-gomail/gomail,Feature Branching,Feature Branching,2,257.0228703703704,0.8653216027396323,2.0,128.51179398148147
+go-kit/kit,Trunk-based,Trunk-based,1,531.4585648148148,0.370148821747976,10.0,4.40754050925926
+go-lang-plugin-org/go-lang-idea-plugin,Feature Branching,Feature Branching,2,642.4271990740741,0.7479862702413859,1.0,480.526724537037
+go-pg/pg,Trunk-based,Trunk-based,2,813.167488425926,0.6283656627331128,1.0,0.0
+go-redis/redis,Trunk-based,Trunk-based,1,827.9735416666666,0.1644519219825445,6.0,1.9904050925925925
+goadesign/goa,Trunk-based,Trunk-based,2,634.0370370370371,0.78250193498452,2.0,5.250920138888889
+gocql/gocql,One Branch,One Branch,1,955.4168055555556,2.350147451158485e-06,0.0,
+gonum/graph,Trunk-based,Trunk-based,1,1113.0424074074074,0.0403848772691599,14.0,0.0
+gonum/matrix,Trunk-based,Trunk-based,2,681.2192476851852,0.8733496005757514,19.0,0.0
+google/auto,Feature Branching,Feature Branching,1,1194.8819328703703,0.3828891199046194,5.0,75.90247685185186
+google/closure-compiler,One Branch,One Branch,1,786.0950694444444,0.0038654204574904,0.0,
+google/ggrc-core,Trunk-based,Trunk-based,1,397.9773148148148,0.3617605693605745,11.0,4.978206018518518
+google/git-appraise,Feature Branching,Feature Branching,1,361.1665740740741,0.1936928469191526,3.0,10.770474537037035
+google/go-github,One Branch,One Branch,1,1188.7144444444446,0.1993888745046391,0.0,
+google/gopacket,One Branch,One Branch,1,494.1661226851852,0.0,0.0,
+google/grr,One Branch,One Branch,1,595.1150462962963,0.0001327357727672,0.0,
+google/guava,One Branch,Feature Branching,1,662.8384837962963,0.2101450088961361,1.0,139.29219907407406
+google/guice,One Branch,One Branch,1,782.1883217592592,,0.0,
+google/gxui,One Branch,One Branch,1,211.95430555555555,3.576723057664639e-05,0.0,
+google/iosched,One Branch,One Branch,1,517.7699421296296,0.0,0.0,
+google/ipaddr-py,One Branch,One Branch,1,304.9494675925926,0.0,0.0,
+google/oauth2client,One Branch,One Branch,1,837.9002430555555,0.0751358447671656,0.0,
+google/physical-web,Trunk-based,Trunk-based,1,671.8287847222222,0.0,1.0,0.0
+google/yapf,Trunk-based,Trunk-based,1,531.8193171296297,1.0446321479145148e-05,1.0,0.0055555555555555
+googlesamples/android-topeka,One Branch,One Branch,1,0.0,,0.0,
+googollee/go-socket.io,One Branch,One Branch,1,746.1820486111111,0.1815162336653615,0.0,
+gopherjs/gopherjs,One Branch,One Branch,1,227.18898148148148,0.0001188030359779,0.0,
+goraft/raft,Feature Branching,Feature Branching,1,172.09291666666667,0.2520046637166023,1.0,14.18800925925926
+gorilla/mux,One Branch,One Branch,1,1000.8094791666666,0.0,0.0,
+gorilla/websocket,One Branch,One Branch,1,974.7800231481482,0.0,0.0,
+grafana/grafana,Trunk-based,Trunk-based,1,50.6468287037037,0.2481095257051943,2.0,1.4244560185185184
+grafov/m3u8,One Branch,One Branch,2,1126.2263773148147,0.9180489449777686,0.0,
+grails/grails-core,Trunk-based,Trunk-based,2,842.0625347222223,0.7017435267622958,2.0,0.0
+graphql-go/graphql,Trunk-based,Trunk-based,1,333.8904513888889,0.0277183256387284,3.0,0.0
+gratipay/gratipay.com,Trunk-based,Trunk-based,1,1268.66125,0.2868888329097861,68.0,0.0
+greenrobot/EventBus,One Branch,One Branch,1,1269.3189583333333,0.2734808541157943,0.0,
+greenrobot/greenDAO,Trunk-based,Trunk-based,1,1282.5208333333333,0.0530450194838362,1.0,6.350775462962963
+grpc/grpc-go,One Branch,One Branch,1,546.8464930555556,0.0012585417944643,0.0,
+grpc/grpc-java,One Branch,One Branch,1,530.0155671296296,0.3641023384511439,0.0,
+guard/guard,Trunk-based,Trunk-based,1,1925.8366666666664,0.0740024681913142,31.0,0.0
+guillermooo/Vintageous,Trunk-based,Trunk-based,1,525.2971296296296,0.0713281715868391,4.0,0.0
+gunthercox/ChatterBot,Trunk-based,Trunk-based,1,702.9529282407408,0.4418090102807546,7.0,2.8848148148148147
+haml/haml,Trunk-based,Trunk-based,2,1556.549039351852,0.9983554253374652,10.0,0.0
+hammerlab/pyensembl,Trunk-based,Trunk-based,1,511.7931365740741,0.0159187037713511,6.0,0.7250752314814815
+harvard-lil/perma,Trunk-based,Trunk-based,2,909.0046875,0.9857609955842396,1.0,0.0
+hashicorp/consul-template,Trunk-based,Trunk-based,1,671.9632175925926,0.0016371838309188,5.0,0.5347337962962962
+hashicorp/nomad,Trunk-based,Trunk-based,1,328.1126273148148,0.0578377364564469,3.0,0.0
+hashicorp/otto,One Branch,One Branch,1,324.1107060185185,,0.0,
+hawkular/hawkular-metrics,Trunk-based,Trunk-based,1,827.3690046296297,0.2247646006175141,7.0,0.5967708333333334
+healthonnet/hon-lucene-synonyms,Trunk-based,Trunk-based,1,182.6807523148148,7.159322226331264e-05,1.0,0.0
+helpyio/helpy,Feature Branching,Feature Branching,1,187.42388888888888,0.3780889699423668,14.0,9.387905092592591
+hitherejoe/Android-Boilerplate,One Branch,One Branch,1,175.3017013888889,,0.0,
+hotchemi/PermissionsDispatcher,Trunk-based,Trunk-based,1,378.40078703703705,0.2120711591190851,1.0,0.1855324074074074
+hprose/hprose-go,One Branch,One Branch,1,24.12388888888889,,0.0,
+httprb/http,Trunk-based,Trunk-based,1,1777.3523958333333,0.1704587947401242,3.0,0.0
+hybridgroup/gobot,Feature Branching,Feature Branching,2,953.6549652777778,0.8997785432942453,2.0,429.0391377314815
+hylang/hy,One Branch,One Branch,1,1226.802974537037,0.0006849235135094,0.0,
+hynek/structlog,Trunk-based,Trunk-based,1,1102.8502314814814,0.2167606746240224,5.0,0.0
+iBotPeaches/Apktool,One Branch,One Branch,1,837.8669791666666,,0.0,
+ianks/octodown,Trunk-based,Trunk-based,1,478.2359259259259,0.2096650343817595,11.0,0.0034953703703703
+idan/oauthlib,Trunk-based,Trunk-based,1,1533.0618981481482,0.010998761646725,1.0,0.0
+igniterealtime/Openfire,One Branch,One Branch,1,824.2274768518519,0.2785799677121902,0.0,
+igrigorik/http-2,One Branch,One Branch,1,987.8675694444444,0.0,0.0,
+iluwatar/java-design-patterns,Feature Branching,Feature Branching,1,731.9182291666667,0.4443288489064321,2.0,31.3778125
+inaturalist/inaturalist,Feature Branching,Feature Branching,2,993.5086111111112,0.8689125557915629,1.0,15.14133101851852
+inconshreveable/ngrok,One Branch,One Branch,1,1049.0748958333334,0.120991354916304,0.0,
+inesita-rb/inesita,Trunk-based,Trunk-based,1,226.33601851851853,0.1495735813967188,2.0,0.9270717592592592
+influxdata/influxdb,Trunk-based,Trunk-based,1,508.0299884259259,0.1470296106344517,4.0,0.0
+innoq/iqvoc,One Branch,One Branch,1,1785.013240740741,,0.0,
+inossidabile/protector,One Branch,One Branch,1,725.2097569444444,0.0098598070037942,0.0,
+intelsdi-x/snap,Feature Branching,Feature Branching,1,273.1334606481482,0.3557195088159613,1.0,97.15890046296296
+intridea/hashie,Trunk-based,Trunk-based,1,1813.5075810185183,0.0056548002641315,1.0,0.0
+intridea/multi_json,Trunk-based,Trunk-based,1,1862.367974537037,0.0010477190612188,3.0,0.0
+inveniosoftware/dictdiffer,One Branch,One Branch,1,727.0830787037037,0.0,0.0,
+ioam/holoviews,Trunk-based,Trunk-based,1,843.3320833333333,0.3217172917417038,46.0,0.6960648148148147
+ipfs/go-ipfs,Trunk-based,Trunk-based,2,762.8297106481482,0.5897888537480764,99.0,0.0
+itdxer/neupy,One Branch,One Branch,1,335.44319444444443,0.4560122436141351,0.0,
+jMonkeyEngine/jmonkeyengine,Trunk-based,Trunk-based,1,655.1617476851852,0.5021174001507791,1.0,0.0648726851851851
+jOOQ/jOOQ,One Branch,One Branch,1,1146.9679398148148,0.2859970172969129,0.0,
+jamstooks/django-s3-folder-storage,One Branch,One Branch,2,0.0138078703703703,0.9002514668901929,0.0,
+jasperproject/jasper-client,One Branch,One Branch,2,697.8089814814815,0.7996127793913673,0.0,
+javan/whenever,Trunk-based,Trunk-based,1,1889.281585648148,0.0003893124449635,1.0,0.7355208333333333
+javaslang/javaslang,Trunk-based,Trunk-based,1,943.7398958333332,0.0118720795232453,1.0,3.391585648148148
+javers/javers,Trunk-based,Trunk-based,2,979.5631828703704,0.6045589528940047,8.0,5.321261574074074
+jborg/attic,One Branch,One Branch,1,684.0344675925926,0.0,0.0,
+jdigger/git-process,Trunk-based,Trunk-based,1,1391.9230555555555,0.2184051637459473,5.0,0.0
+jenkinsci/gitlab-plugin,Feature Branching,Feature Branching,1,825.5591898148148,0.1802396030277681,4.0,24.582824074074075
+jeremyevans/sequel,One Branch,One Branch,1,1131.0376041666666,2.814115426971561e-06,0.0,
+jeremytregunna/ruby-trello,One Branch,One Branch,1,1678.4751736111111,0.0150430158876772,0.0,
+jfinkels/flask-restless,Trunk-based,Trunk-based,1,1616.5755671296297,0.2252925563982775,5.0,0.0
+jgm/CommonMark,One Branch,One Branch,1,69.16940972222223,0.0135115123446409,0.0,
+jim/carmen,One Branch,One Branch,1,1608.907662037037,0.0003946777151872,0.0,
+jinzhu/gorm,One Branch,One Branch,1,0.0300810185185185,,0.0,
+jkbrzt/httpie,Trunk-based,Trunk-based,1,1624.4148611111111,0.0491144731574426,1.0,0.0
+jnunemaker/httparty,One Branch,One Branch,1,1598.6225,0.0,0.0,
+joblib/joblib,One Branch,One Branch,1,1499.987511574074,5.203747028109903e-05,0.0,
+joekarl/go-libapns,One Branch,One Branch,1,72.73759259259259,6.046595702970852e-06,0.0,
+joelittlejohn/jsonschema2pojo,Trunk-based,Trunk-based,1,1156.8360069444443,0.0008474984014858,1.0,0.0
+jonathanslenders/python-prompt-toolkit,Trunk-based,Trunk-based,1,716.2533101851852,0.0143414436420903,8.0,0.0
+jonathanslenders/pyvim,One Branch,One Branch,1,71.9908449074074,,0.0,
+jondot/awesome-react-native,One Branch,One Branch,1,349.7707291666667,,0.0,
+jordansissel/fpm,Trunk-based,Trunk-based,1,1633.9700347222222,0.0073403713069305,2.0,0.0
+josevalim/inherited_resources,One Branch,One Branch,1,542.6484027777777,0.0,0.0,
+jpos/jPOS,One Branch,One Branch,1,1027.056875,0.0,0.0,
+junegunn/fzf,Trunk-based,Trunk-based,1,605.5673726851852,0.5361420030392755,2.0,4.541417824074074
+junit-team/junit5,Trunk-based,Trunk-based,1,312.04148148148147,0.263666793470004,6.0,0.0
+jupyterhub/jupyterhub,One Branch,One Branch,1,740.3855555555556,0.0466721918159757,0.0,
+justinfrench/formtastic,Trunk-based,Trunk-based,1,1734.808611111111,0.2829939467119144,18.0,0.0
+k9mail/k-9,Trunk-based,Trunk-based,1,249.0641087962963,0.0287224316920858,7.0,0.0
+kataras/iris,One Branch,One Branch,1,90.5958101851852,0.3720559802276033,0.0,
+kennethreitz/tablib,Feature Branching,Feature Branching,2,1413.065960648148,0.7055466279534555,2.0,498.4919618055556
+kevinburke/hamms,Trunk-based,Trunk-based,1,5.188611111111111,0.0159247461498652,1.0,0.0
+kevinsawicki/http-request,One Branch,One Branch,1,820.7323495370371,0.0,0.0,
+keybase/kbfs,One Branch,One Branch,1,35.94197916666667,,0.0,
+keyboardsurfer/Crouton,One Branch,One Branch,1,0.0879976851851851,,0.0,
+keycloak/keycloak,Feature Branching,Feature Branching,1,582.4077893518519,0.3142356842254058,1.0,34.819398148148146
+kilimchoi/engineering-blogs,One Branch,One Branch,1,1.1528819444444445,0.0,0.0,
+killbill/killbill,Trunk-based,Trunk-based,2,1387.687175925926,0.6076103330471635,5.0,1.9895023148148148
+kisielk/sqlstruct,One Branch,One Branch,1,613.6452314814815,,0.0,
+kivy/kivy,Trunk-based,Trunk-based,1,1412.779675925926,0.1063505256137255,7.0,0.0
+klen/muffin,Feature Branching,Feature Branching,2,558.8874305555555,0.9904399601440314,1.0,553.5444444444445
+kmuto/review,One Branch,One Branch,1,1724.9698263888888,,0.0,
+knightliao/disconf,Feature Branching,Feature Branching,2,735.0381712962962,0.9893088665179868,1.0,727.1797800925926
+konomae/lastpass-python,One Branch,One Branch,1,757.9650347222222,0.0958392811624827,0.0,
+kontalk/androidclient,Feature Branching,Feature Branching,1,779.069699074074,0.512330084691764,10.0,9.452991898148149
+kontena/kontena,Trunk-based,Trunk-based,1,525.5200925925926,0.2805731738064777,30.0,0.1676273148148148
+koral--/android-gif-drawable,One Branch,One Branch,2,909.0011226851852,0.8097375200599528,0.0,
+ksoichiro/Android-ObservableScrollView,Trunk-based,Trunk-based,1,462.7776273148148,0.0,1.0,0.0
+kstyrc/embedded-redis,One Branch,One Branch,1,419.7747800925926,9.578549079214409e-05,0.0,
+kubernetes/heapster,One Branch,One Branch,1,602.3650462962963,0.2190959862302029,0.0,
+labstack/echo,Feature Branching,Feature Branching,1,535.933587962963,0.2090585824813924,2.0,58.32461805555556
+languagetool-org/languagetool,Trunk-based,Trunk-based,2,334.85373842592594,0.9579773687122864,1.0,0.0
+laserlemon/vestal_versions,One Branch,One Branch,1,461.5694097222223,0.1040117581930429,0.0,
+layerlre/ADBWIFI,One Branch,One Branch,1,10.50193287037037,,0.0,
+le0pard/mongodb_logger,Feature Branching,Feature Branching,2,1728.9681828703704,0.8700109492487863,1.0,1504.22125
+leereilly/swot,Trunk-based,Trunk-based,1,1045.906238425926,1.1896027743705648e-05,4.0,0.0
+lessthanoptimal/BoofCV,One Branch,One Branch,2,240.6203356481481,0.6257926019441359,0.0,
+letsencrypt/boulder,Trunk-based,Trunk-based,1,577.9983912037037,0.3626379959366877,9.0,0.0469212962962962
+liaohuqiu/android-Ultra-Pull-To-Refresh,Feature Branching,Feature Branching,1,504.0029166666667,0.4342594789510606,1.0,218.8680439814815
+libgit2/git2go,Trunk-based,Trunk-based,1,911.814386574074,0.5832110562320906,2.0,2.155017361111111
+linkedin/gobblin,One Branch,One Branch,1,468.72373842592594,0.0110266177628568,0.0,
+lintool/warcbase,One Branch,One Branch,1,121.94195601851852,0.0896027206325869,0.0,
+lisa-lab/DeepLearningTutorials,Trunk-based,Trunk-based,1,1454.9904166666668,0.000493488359173,3.0,0.0384722222222222
+lisa-lab/pylearn2,Trunk-based,Trunk-based,1,1185.752638888889,0.0026043194865645,2.0,1.5440393518518518
+locomotivecms/engine,One Branch,One Branch,1,1759.7401041666667,0.0021948606218122,0.0,
+locustio/locust,One Branch,One Branch,1,1369.8634953703704,0.108777109668419,0.0,
+lomik/go-carbon,One Branch,One Branch,1,496.7850115740741,0.5352314564307885,0.0,
+loopj/android-async-http,Trunk-based,Trunk-based,1,893.571875,5.932288240300677e-06,1.0,0.0
+lra/mackup,One Branch,One Branch,1,519.6364236111111,0.0290827897452427,0.0,
+lsegal/yard,Trunk-based,Trunk-based,1,1903.9694907407409,0.0089243680740001,5.0,0.0
+lucas-clemente/quic-go,Trunk-based,Trunk-based,1,146.27512731481482,0.1135537729312255,8.0,0.0
+lunixbochs/struc,One Branch,One Branch,1,389.3724189814815,0.0,0.0,
+lxc/lxd,Trunk-based,Trunk-based,1,663.2038773148148,0.1903993686651752,5.0,0.0
+lyft/scoop,One Branch,One Branch,1,225.79023148148147,0.0224481650761963,0.0,
+lynndylanhurley/devise_token_auth,Trunk-based,Trunk-based,1,785.948275462963,0.0033416521452301,8.0,0.0
+mackerelio/mackerel-agent,Trunk-based,Trunk-based,1,599.7044444444444,0.4737114138631251,33.0,0.0
+maebert/jrnl,Trunk-based,Trunk-based,1,1344.7789699074074,0.5846430360049101,20.0,0.0054976851851851
+magnusvk/counter_culture,Trunk-based,Trunk-based,1,1056.2075925925926,0.006605755023958,3.0,0.0
+mahmoud/boltons,One Branch,One Branch,1,483.085,0.0373090637756793,0.0,
+mailgun/godebug,One Branch,One Branch,1,47.94356481481481,0.002616647080238,0.0,
+mailgun/scroll,One Branch,One Branch,2,568.2553240740741,0.8906663223161537,0.0,
+mailpile/Mailpile,Feature Branching,Feature Branching,1,970.5783101851852,0.5512078244301799,1.0,534.9903587962963
+mame/quine-relay,One Branch,One Branch,1,521.0639583333333,0.001621948467885,0.0,
+mapzen/lost,One Branch,One Branch,1,2.0974189814814816,0.0,0.0,
+matplotlib/matplotlib,Feature Branching,Feature Branching,1,1463.1933449074074,0.558930921519044,2.0,204.0498148148148
+matryer/silk,One Branch,One Branch,1,93.44065972222222,0.0015704906795546,0.0,
+mattn/go-shellwords,One Branch,One Branch,1,635.0366087962963,0.0,0.0,
+mattn/gom,One Branch,One Branch,1,963.1002546296296,0.0,0.0,
+matyb/java-koans,One Branch,One Branch,1,911.3141203703703,,0.0,
+maximilien/i18n4go,One Branch,One Branch,1,814.9624652777778,,0.0,
+mbi/django-rosetta,One Branch,One Branch,1,538.5434259259259,0.1246180111339417,0.0,
+mbj/mutant,Trunk-based,Trunk-based,1,1051.4399074074074,0.0381149272281019,18.0,0.0
+mbleigh/acts-as-taggable-on,Trunk-based,Trunk-based,1,1849.025555555556,0.3212386243885418,1.0,0.0
+medcl/elasticsearch-analysis-ik,One Branch,One Branch,1,150.80475694444445,0.0071059349718727,0.0,
+meejah/txtorcon,Trunk-based,Trunk-based,1,1201.3016203703703,0.1239658449178292,6.0,0.0310648148148148
+megamattron/SplinterNet,One Branch,One Branch,1,15.836168981481482,,0.0,
+mesonbuild/meson,Trunk-based,Trunk-based,1,526.2456712962963,0.0132623374706214,1.0,1.6502430555555556
+mholt/caddy,Trunk-based,Trunk-based,1,482.5967708333333,0.0731092096981796,3.0,0.0
+micahflee/onionshare,Feature Branching,Feature Branching,1,727.083738425926,0.0925304164507389,1.0,67.2773611111111
+michael-lazar/rtv,One Branch,One Branch,1,266.67984953703706,0.3710014509265362,0.0,
+michaelsauter/crane,Trunk-based,Trunk-based,1,482.1312731481481,0.1161108966836151,9.0,0.0
+micro/go-micro,Trunk-based,Trunk-based,1,303.87388888888887,0.4935037165149529,3.0,0.8534606481481481
+micro/micro,Trunk-based,Trunk-based,1,308.9194212962963,0.1430565653769684,1.0,2.622939814814815
+middleman/middleman,Trunk-based,Trunk-based,1,1713.0647685185186,0.4132943896118173,4.0,0.0
+mikepenz/MaterialDrawer,Trunk-based,Trunk-based,2,413.7873148148148,0.9976212842391076,1.0,0.0
+mislav/will_paginate,One Branch,One Branch,2,1728.5585185185184,0.610447023617195,0.0,
+mitchellh/colorstring,One Branch,One Branch,1,431.7866435185185,,0.0,
+mitchellh/mapstructure,Trunk-based,Trunk-based,1,448.5419907407408,0.0,1.0,0.0
+mitchellh/packer,Trunk-based,Trunk-based,1,1113.4366087962962,0.0079693414168178,5.0,0.0
+mkdocs/mkdocs,Trunk-based,Trunk-based,1,930.780925925926,0.0006861273598016,1.0,0.0
+mockito/mockito,Trunk-based,Trunk-based,1,1037.1972800925926,0.0780274967556631,5.0,0.0
+mojombo/grit,One Branch,One Branch,1,0.0,,0.0,
+mongodb/mongo-java-driver,One Branch,One Branch,1,1345.9140972222222,0.453411662310117,0.0,
+mongodb/mongo-ruby-driver,Feature Branching,Feature Branching,2,1406.9502662037037,0.8133084559546452,1.0,59.5927662037037
+mongodb/mongoid,Trunk-based,Trunk-based,1,1898.1655902777777,0.4346511645164334,3.0,0.0835763888888889
+mopidy/mopidy,Trunk-based,Trunk-based,2,1450.5916898148148,0.990556854665356,3.0,0.0
+motemen/gore,Trunk-based,Trunk-based,1,473.9346412037037,0.0020904341665137,2.0,0.0
+motion-kit/motion-kit,Trunk-based,Trunk-based,1,810.0826273148148,0.1727693272715565,12.0,0.0125752314814814
+mozilla-services/heka,Trunk-based,Trunk-based,2,1101.935023148148,0.7688887685431645,20.0,0.0
+mozilla/MozStumbler,Trunk-based,Trunk-based,2,697.7950115740741,0.6595826512976416,1.0,0.0
+mozilla/kitsune,Trunk-based,Trunk-based,1,1062.3385532407408,0.0356614100327728,5.0,0.0
+mozilla/socorro,Trunk-based,Trunk-based,1,751.035011574074,0.0465837846459573,1.0,0.0
+mozilla/zamboni,Trunk-based,Trunk-based,1,694.1669212962963,0.0242293495223807,1.0,0.0308449074074074
+mozillazg/python-pinyin,One Branch,One Branch,2,1063.1569444444444,0.995438223599439,0.0,
+mperham/inspeqtor,One Branch,One Branch,1,346.82633101851854,0.0165210367353844,0.0,
+mperham/sidekiq,Trunk-based,Trunk-based,1,1653.8118634259258,0.123775576128507,7.0,5.726307870370371
+mroth/lolcommits,Trunk-based,Trunk-based,1,1582.663217592593,0.0259737121782726,11.0,0.2135300925925926
+mustache/mustache,Feature Branching,Feature Branching,1,667.5281481481481,0.0598747119000669,2.0,19.99215277777778
+mvader/go-itergen,Trunk-based,Trunk-based,1,64.25016203703704,0.0016477476818584,1.0,0.1058680555555555
+mwclient/mwclient,Feature Branching,Feature Branching,1,728.1110532407407,0.0339205511725347,2.0,12.34896412037037
+mybatis/mybatis-3,Trunk-based,Trunk-based,1,1284.831886574074,0.2793372367538897,1.0,0.0
+nanoc/nanoc,One Branch,One Branch,1,1311.8047800925926,0.3576524965830004,0.0,
+napalm-automation/napalm,One Branch,One Branch,1,192.76462962962964,0.4835119037897877,0.0,
+nathanl/authority,Trunk-based,Trunk-based,1,1580.6606828703705,0.0059556891071751,2.0,1.5306597222222222
+nats-io/gnatsd,Trunk-based,Trunk-based,1,1041.2915277777777,0.0169865952169352,1.0,0.0
+naver/pinpoint,One Branch,One Branch,1,579.075474537037,0.3613042309359621,0.0,
+nengo/nengo,Trunk-based,Trunk-based,1,675.7635763888889,0.5101499635880008,87.0,0.0
+nenick/android-gradle-template,One Branch,One Branch,1,512.8395949074074,0.2121261519100453,0.0,
+neo4jrb/neo4j,Trunk-based,Trunk-based,1,1823.9721875,0.2469806102177141,25.0,0.1684837962962962
+net-ssh/net-ssh,One Branch,One Branch,1,875.6551273148148,0.1595939748973397,0.0,
+netty/netty,One Branch,One Branch,1,598.2405324074074,7.487233686159387e-06,0.0,
+networkx/networkx,Trunk-based,Trunk-based,1,1137.606099537037,0.12798798060828,1.0,0.0
+ngageoint/geowave,Trunk-based,Trunk-based,1,790.0871527777778,0.2608216129461808,13.0,0.0567361111111111
+nhaarman/ListViewAnimations,Trunk-based,Trunk-based,2,221.6246296296296,0.9702561074656598,5.0,0.137511574074074
+nicolaiarocci/eve,Feature Branching,Feature Branching,2,1233.9046875,0.9766695730717466,1.0,1205.117164351852
+ninja-ide/ninja-ide,One Branch,One Branch,1,1018.9403125,,0.0,
+niosus/EasyClangComplete,Trunk-based,Trunk-based,1,124.10113425925924,0.1176317142772406,1.0,0.6619444444444444
+nipy/dipy,Trunk-based,Trunk-based,1,1516.8275810185185,0.0325331707213634,3.0,0.0
+nlf/dlite,One Branch,One Branch,2,87.31501157407408,0.6149265040097338,0.0,
+noplay/python-mysql-replication,Feature Branching,Feature Branching,1,768.8714699074075,0.3945509513364306,1.0,225.00074074074075
+norman/friendly_id,Feature Branching,Feature Branching,1,1119.2998032407406,0.5655789603005261,1.0,633.0524189814815
+nose-devs/nose2,Feature Branching,Feature Branching,1,1592.603298611111,0.0800582481549451,1.0,56.35909722222223
+nostra13/Android-Universal-Image-Loader,Trunk-based,Trunk-based,1,1030.8869560185185,0.385106853498021,1.0,1.9939583333333333
+notahat/machinist,One Branch,One Branch,1,0.0,0.0,0.0,
+novaquark/sysinfo_influxdb,One Branch,One Branch,2,295.0722222222222,0.9421232796113946,0.0,
+nsqio/nsq,Trunk-based,Trunk-based,1,1416.0674768518518,0.3098899673497524,1.0,0.0
+numba/numba,Feature Branching,Feature Branching,1,1281.2828009259258,0.3701510207046732,2.0,242.7637384259259
+numenta/NAB,One Branch,One Branch,1,515.4189004629629,,0.0,
+numenta/htm.java,Trunk-based,Trunk-based,1,743.9314699074074,0.0,1.0,0.0
+numenta/nupic,Trunk-based,Trunk-based,1,1184.0978587962964,0.0110064550920275,9.0,0.0
+nutzam/nutz,One Branch,One Branch,1,1342.4659837962963,1.077687834717448e-06,0.0,
+nvbn/django-bower,Feature Branching,Feature Branching,1,1065.3511342592592,0.2516804199206708,1.0,268.1280208333333
+olivere/elastic,One Branch,One Branch,4,560.7437962962963,0.8428340796689846,0.0,
+omab/python-social-auth,Trunk-based,Trunk-based,1,1246.395787037037,0.2547383661683174,1.0,0.0
+onsi/ginkgo,Trunk-based,Trunk-based,1,1071.047337962963,0.0177170386073946,2.0,0.0
+opal/opal,Trunk-based,Trunk-based,1,1441.916539351852,0.3322278623368658,32.0,0.0
+open-keychain/open-keychain,Trunk-based,Trunk-based,1,909.4011342592592,0.2584701333134654,17.0,0.2010416666666666
+openSUSE/osem,Feature Branching,Feature Branching,1,874.0059722222222,0.0869886366676132,1.0,38.66501157407407
+openai/gym,Trunk-based,Trunk-based,1,125.08701388888888,0.253697009803731,4.0,0.8901620370370371
+openaustralia/morph,Trunk-based,Trunk-based,1,954.8188310185184,0.3006669980187123,44.0,0.023136574074074
+opencontainers/runtime-spec,One Branch,One Branch,1,356.7906712962963,0.0044731657094557,0.0,
+openfoodfoundation/openfoodnetwork,Trunk-based,Trunk-based,1,1283.8521643518518,0.187041797234446,36.0,1.986857638888889
+openshift/geard,One Branch,One Branch,1,345.9272569444444,0.0040247436146441,0.0,
+openshift/rhc,Trunk-based,Trunk-based,2,1462.8935416666666,0.9978373024378168,1.0,0.0
+openshift/source-to-image,One Branch,One Branch,1,674.9748958333333,0.0001732917673155,0.0,
+opf/openproject,Feature Branching,Feature Branching,1,1013.6711458333332,0.313677262675145,6.0,14.149976851851852
+oppia/oppia,Feature Branching,Feature Branching,2,336.6040277777778,0.9423872112069256,1.0,317.21133101851854
+orbeon/orbeon-forms,Trunk-based,Trunk-based,1,1631.115925925926,0.3433558495399537,2.0,3.936122685185185
+orgsync/active_interaction,Trunk-based,Trunk-based,1,1147.6886226851852,0.2306848173316786,20.0,0.1829571759259259
+orhanobut/logger,One Branch,One Branch,1,321.918587962963,0.0,0.0,
+osmdroid/osmdroid,One Branch,One Branch,4,240.909675925926,0.8219837175797213,0.0,
+osrg/gobgp,Trunk-based,Trunk-based,1,530.0590046296296,0.5341215070002908,47.0,0.0
+ostrost/ostent,Trunk-based,Trunk-based,1,318.81984953703704,0.2283534091204051,1.0,0.0
+otwcode/otwarchive,Trunk-based,Trunk-based,2,1173.2745254629629,0.982660786571344,1.0,4.330949074074074
+overviewer/Minecraft-Overviewer,Feature Branching,Feature Branching,1,1396.9373958333333,0.4810459580846795,2.0,17.52683449074074
+owncloud/pyocclient,Feature Branching,Feature Branching,1,741.2777430555556,0.020234737014168,2.0,10.49449074074074
+p-e-w/maybe,One Branch,One Branch,1,92.20414351851852,0.0,0.0,
+p6spy/p6spy,Trunk-based,Trunk-based,1,1104.483136574074,0.1277569574581994,7.0,3.5250462962962965
+pachyderm/pachyderm,Trunk-based,Trunk-based,1,177.0053472222222,0.3052258569819833,31.0,3.3979166666666667
+padrino/padrino-framework,One Branch,One Branch,1,1851.2241203703704,0.0012989903252455,0.0,
+pantsbuild/pants,One Branch,One Branch,1,1189.6231944444444,0.4968218616998278,0.0,
+papertrail/remote_syslog2,Trunk-based,Trunk-based,1,792.8045023148148,0.1558121821664239,3.0,5.842719907407408
+paramiko/paramiko,Feature Branching,Feature Branching,1,1357.8795138888888,0.5216174132478992,3.0,8.137453703703704
+pardom/ActiveAndroid,One Branch,One Branch,1,445.0086921296297,0.0,0.0,
+paul-nechifor/ohmu,One Branch,One Branch,1,88.83082175925927,0.0,0.0,
+paulsmith/tablestruct,One Branch,One Branch,1,26.939467592592592,0.0,0.0,
+pearkes/tugboat,Trunk-based,Trunk-based,1,1136.6229166666667,0.0237832040211713,25.0,0.0
+peatio/peatio,Trunk-based,Trunk-based,1,586.9518055555556,0.4778259800969525,38.0,0.3059780092592593
+peco/peco,Trunk-based,Trunk-based,1,798.9297453703704,0.5480476847425947,8.0,0.2159895833333333
+pedrovgs/EffectiveAndroidUI,One Branch,One Branch,1,674.631574074074,,0.0,
+peek/peek,Trunk-based,Trunk-based,1,1105.9149421296297,0.0031151410359683,1.0,3.4450810185185183
+pengux/check,One Branch,One Branch,1,253.6194907407408,,0.0,
+pennersr/django-allauth,One Branch,One Branch,1,1287.3084722222222,,0.0,
+perwendel/spark,Trunk-based,Trunk-based,1,1163.1886689814814,0.0258052226547871,4.0,5.8416550925925925
+peterbrittain/asciimatics,One Branch,One Branch,1,128.72422453703703,,0.0,
+pfnet/chainer,Trunk-based,Trunk-based,1,439.3013310185185,0.4549774493299875,140.0,1.882505787037037
+phrack/ShootOFF,One Branch,One Branch,1,324.725162037037,,0.0,
+phuslu/goproxy,One Branch,One Branch,1,145.33998842592592,0.0,0.0,
+pierrre/imageserver,One Branch,One Branch,1,1059.0910069444444,0.0233235036469899,0.0,
+pika/pika,One Branch,One Branch,1,985.7380324074074,1.0790467370014143e-05,0.0,
+pimutils/khal,Trunk-based,Trunk-based,1,881.0245717592593,0.1190892763571789,10.0,0.0
+pivotal/LicenseFinder,Trunk-based,Trunk-based,1,1396.7348148148149,0.0007087628182554,3.0,0.0
+pixie-lang/pixie,Trunk-based,Trunk-based,1,663.9399305555555,0.3785661353441968,6.0,2.8330497685185185
+pkg/sftp,One Branch,One Branch,1,211.3450578703704,0.0001619367747791,0.0,
+plataformatec/responders,Trunk-based,Trunk-based,1,1623.0074421296297,0.0504039201401678,1.0,0.0
+plataformatec/show_for,Trunk-based,Trunk-based,1,1414.7978125,0.0,1.0,0.0
+plataformatec/simple_form,Trunk-based,Trunk-based,1,1955.7841203703704,0.4518055264232019,16.0,0.0125636574074074
+pluginaweek/state_machine,One Branch,One Branch,1,639.5981481481482,,0.0,
+podigee/device_detector,One Branch,One Branch,2,504.0486111111111,0.9900146498950628,0.0,
+poise/application,One Branch,One Branch,1,594.6894097222222,0.0516061673572407,0.0,
+posativ/isso,Feature Branching,Feature Branching,1,1014.964849537037,0.2964004078639696,1.0,43.853113425925926
+postrank-labs/goliath,One Branch,One Branch,1,1670.3020717592592,0.0005777328797236,0.0,
+potatolondon/djangae,Trunk-based,Trunk-based,2,527.9457523148149,0.5965873405247142,18.0,0.0549942129629629
+powerline/powerline,One Branch,One Branch,1,1263.7970949074074,0.5357831895281698,0.0,
+ppat/storm-rabbitmq,Trunk-based,Trunk-based,1,964.0632175925924,2.1549896919459645e-05,1.0,0.0
+pquerna/ffjson,One Branch,One Branch,1,571.9922569444444,0.0122658719783644,0.0,
+praw-dev/praw,Trunk-based,Trunk-based,1,1325.7153703703705,0.2952476095016764,8.0,0.0
+prawnpdf/prawn,Trunk-based,Trunk-based,1,1454.097083333333,0.3968544483360665,18.0,0.0057291666666666
+pre-commit/pre-commit-hooks,One Branch,One Branch,1,901.950787037037,0.0014980646117004,0.0,
+presidentbeef/brakeman,One Branch,One Branch,1,1748.9774421296297,6.862475481787965e-06,0.0,
+progit/progit,Trunk-based,Trunk-based,1,1223.2562847222223,0.0918587600643898,4.0,0.0
+projectblacklight/blacklight,Trunk-based,Trunk-based,1,1396.8963541666667,0.4846554877009296,38.0,0.0
+projecthydra/hydra-head,Trunk-based,Trunk-based,2,1266.6813194444444,0.6771107709956499,20.0,0.0
+projecthydra/sufia,Git Flow,Git Flow,3,1231.7358796296296,0.8954540781894867,39.0,0.0
+prometheus/alertmanager,Trunk-based,Trunk-based,1,501.48452546296295,0.5194521183551715,6.0,1.081400462962963
+prometheus/pushgateway,One Branch,One Branch,1,112.69630787037038,0.0,0.0,
+pry/pry,One Branch,One Branch,1,1800.6329166666667,0.2663462199286871,0.0,
+psu-stewardship/scholarsphere,Trunk-based,Trunk-based,2,994.9040972222224,0.9194501275329976,14.0,0.0
+publify/publify,Trunk-based,Trunk-based,1,1269.1082523148148,0.1332768991072973,19.0,0.0
+puma/puma,Trunk-based,Trunk-based,1,1613.5793171296295,0.0250444697678778,22.0,0.0007638888888888
+puniverse/quasar,Feature Branching,Feature Branching,1,1193.7442361111111,0.3678624025157693,2.0,229.7728877314815
+puppetlabs/hiera,One Branch,One Branch,2,1320.3980092592592,0.683250958947318,0.0,
+puppetlabs/puppetlabs-apache,One Branch,One Branch,1,1300.7291203703703,0.0595332233356726,0.0,
+puppetlabs/puppetlabs-mysql,One Branch,One Branch,1,1407.0385069444444,0.00282708970255,0.0,
+puppetlabs/r10k,Trunk-based,Trunk-based,1,1234.9279398148149,0.1510211825037699,1.0,0.0
+pushtorefresh/storio,Feature Branching,Feature Branching,1,695.0063078703704,0.5251376032508365,1.0,364.88752314814815
+pyca/cryptography,Trunk-based,Trunk-based,1,1120.081273148148,0.2661946178632747,3.0,0.0
+pydanny/cookiecutter-django,Trunk-based,Trunk-based,1,622.2073032407408,0.5309120413992069,1.0,1.146087962962963
+pyinstaller/pyinstaller,One Branch,One Branch,1,957.5495601851852,0.4560168302863929,0.0,
+pypa/pip,One Branch,One Branch,2,1039.1544560185184,0.5897575090681199,0.0,
+python-diamond/Diamond,Trunk-based,Trunk-based,1,837.7904976851852,0.0017393911418149,1.0,0.0
+python-pillow/Pillow,Trunk-based,Trunk-based,1,1280.469664351852,0.2806179272020767,8.0,0.6363946759259259
+python-rope/ropemacs,One Branch,One Branch,1,0.0,,0.0,
+python-visualization/folium,One Branch,One Branch,1,628.3135416666667,0.1400984115878981,0.0,
+python/mypy,Trunk-based,Trunk-based,1,745.1729513888889,0.1023273974909783,3.0,0.0048263888888888
+qiniu/api.v6,One Branch,One Branch,2,1087.851550925926,0.9999942653701964,0.0,
+quandl/quandl-python,Trunk-based,Trunk-based,1,390.0542824074074,0.0,1.0,0.0
+rack/rack,One Branch,One Branch,1,1748.9961574074075,0.3344940300013894,0.0,
+rackerlabs/blueflood,Git Flow,Git Flow,3,1107.0009027777778,0.8077561769695603,11.0,3.1417939814814817
+rails-api/active_model_serializers,Trunk-based,Trunk-based,2,1381.7766087962964,0.7593325216155439,4.0,0.0
+rails-api/rails-api,One Branch,One Branch,1,1273.0381828703703,0.0009688836851262,0.0,
+rails/spring,Trunk-based,Trunk-based,1,1307.4517476851852,0.0839452231396082,3.0,0.0
+rails/strong_parameters,One Branch,One Branch,1,1158.357511574074,0.0,0.0,
+rakyll/boom,One Branch,One Branch,1,931.4427199074074,,0.0,
+rakyll/drive,One Branch,One Branch,1,367.9814004629629,,0.0,
+randy3k/AlignTab,Trunk-based,Trunk-based,1,885.4788657407407,0.0021062049837178,1.0,0.0
+randym/axlsx,Trunk-based,Trunk-based,1,1590.2027083333332,0.0060266163656022,4.0,1.1750462962962964
+rapidftr/RapidFTR,One Branch,One Branch,1,1076.528217592593,0.065271368422225,0.0,
+ratpack/ratpack,Feature Branching,Feature Branching,1,631.9436689814814,0.055431514906804,2.0,17.525318287037038
+reactive-streams/reactive-streams-jvm,One Branch,One Branch,1,626.5046990740741,0.0839974227972559,0.0,
+reddit/reddit,One Branch,One Branch,1,231.8922337962963,0.0,0.0,
+redpen-cc/redpen,Trunk-based,Trunk-based,1,1054.1376157407408,0.0423901888380981,5.0,0.0
+redspread/spread,One Branch,One Branch,4,187.8448263888889,0.7249359249375515,0.0,
+refinery/refinerycms,Trunk-based,Trunk-based,1,1442.9605902777778,0.5050093407253822,34.0,0.0
+requery/requery,One Branch,One Branch,1,197.0447569444445,0.0,0.0,
+resque/resque,One Branch,One Branch,2,1240.4585416666666,0.888042007838014,0.0,
+restic/restic,Trunk-based,Trunk-based,2,536.2136805555556,0.6942782665371751,29.0,0.1055787037037037
+rg3/youtube-dl,Trunk-based,Trunk-based,1,1370.9401157407408,0.0081710706999469,93.0,0.0
+rhuss/jolokia,Trunk-based,Trunk-based,2,1548.2939699074077,0.740292793444194,3.0,0.0
+rkern/line_profiler,One Branch,One Branch,1,580.8949537037037,0.0,0.0,
+robertoestivill/intentbuilder,One Branch,One Branch,1,55.11980324074074,0.0,0.0,
+robfig/cron,Feature Branching,Feature Branching,1,627.7250810185185,0.0718355100862356,1.0,9.221111111111112
+roboguice/roboguice,Trunk-based,Trunk-based,1,1287.632511574074,0.1334051478286813,5.0,0.0
+rollbar/rollbar-gem,Trunk-based,Trunk-based,1,1286.6625115740742,0.1120470839171625,20.0,0.1859143518518518
+rom-rb/rom,Trunk-based,Trunk-based,1,943.0914583333332,0.0585520173250154,26.0,0.4816493055555556
+ros/rosdistro,One Branch,One Branch,1,1265.048738425926,,0.0,
+rpush/rpush,Trunk-based,Trunk-based,1,816.4800810185185,0.0495313987482882,1.0,0.0
+rs/xid,One Branch,One Branch,1,125.70355324074076,,0.0,
+rspec/rspec-core,Trunk-based,Trunk-based,1,1961.9068865740744,0.3765084110257314,119.0,0.0
+rspec/rspec-expectations,Trunk-based,Trunk-based,1,1917.9891087962965,0.3859648070477749,31.0,0.0
+rspec/rspec-mocks,Trunk-based,Trunk-based,1,1959.563055555556,0.3758940544237918,78.0,0.0
+rspec/rspec-rails,Trunk-based,Trunk-based,1,1954.483726851852,0.2190072939717421,32.0,0.0
+rtfd/readthedocs.org,Trunk-based,Trunk-based,1,1241.0140277777778,0.5188436106778421,51.0,0.2471643518518518
+ruboto/ruboto,Trunk-based,Trunk-based,1,1233.2912037037038,0.0161574494474098,2.0,0.208605324074074
+ruby-amqp/amqp,One Branch,One Branch,1,1840.4935532407408,0.2275467160161843,0.0,
+ruby-concurrency/concurrent-ruby,Trunk-based,Trunk-based,1,1131.533125,0.037144632371628,4.0,3.894959490740741
+ruby-grape/grape,Trunk-based,Trunk-based,1,1921.7156712962965,0.0594725064650647,1.0,0.0194560185185185
+ruby-json-schema/json-schema,One Branch,One Branch,1,738.9097106481481,0.1379146286275548,0.0,
+rubygems/rubygems,Trunk-based,Trunk-based,2,1807.119583333333,0.6501131724793366,8.0,0.0009375
+rubys/nokogumbo,One Branch,One Branch,1,790.5875,0.0,0.0,
+russross/blackfriday,Trunk-based,Trunk-based,1,686.7607060185185,0.4112058379275695,3.0,2.545497685185185
+ryanb/cancan,One Branch,One Branch,2,775.6735069444444,0.6604914925262606,0.0,
+sajari/fuzzy,One Branch,One Branch,1,239.9037152777778,0.0027358101468273,0.0,
+sakaiproject/sakai,Trunk-based,Trunk-based,1,601.2464004629629,0.3180863541398348,2.0,0.0
+samaaron/sonic-pi,One Branch,One Branch,1,799.7002199074074,0.0058715144400392,0.0,
+samtools/htsjdk,Trunk-based,Trunk-based,1,792.6275231481482,0.4510457176405397,10.0,0.0
+sass/sass,One Branch,One Branch,2,1743.8812268518518,0.9948778711980376,0.0,
+schacon/ruby-git,One Branch,One Branch,1,1032.3114004629629,0.0029555439039986,0.0,
+schneems/derailed_benchmarks,Trunk-based,Trunk-based,1,621.2848032407408,0.0043386979941711,3.0,0.8121064814814815
+scikit-image/scikit-image,Trunk-based,Trunk-based,1,1427.742951388889,0.540761074497999,2.0,0.704380787037037
+scrapinghub/frontera,Trunk-based,Trunk-based,1,632.5629398148149,0.31243298911955,12.0,0.0
+scrapinghub/splash,Trunk-based,Trunk-based,1,774.3548958333333,0.0836316513941719,11.0,6.2442013888888885
+scrapy/scrapyd,One Branch,One Branch,1,1301.0505092592591,0.0859953767416792,0.0,
+sd6352051/NiftyNotification,One Branch,One Branch,1,246.4011111111111,0.0,0.0,
+searchbox-io/Jest,Trunk-based,Trunk-based,1,1429.8712037037037,0.1470519489290961,2.0,5.95068287037037
+sematext/HBaseHUT,Trunk-based,Trunk-based,1,0.0,0.0,1.0,0.0
+sendgridlabs/go-kinesis,One Branch,One Branch,1,924.9791435185184,,0.0,
+sensu/sensu,One Branch,One Branch,1,1589.0309143518518,0.0302771013234969,0.0,
+seratch/rspec-kickstarter,One Branch,One Branch,1,986.0647337962964,0.0,0.0,
+sferik/rails_admin,Trunk-based,Trunk-based,1,1849.168888888889,0.5430404319778496,4.0,0.0
+sferik/t,Trunk-based,Trunk-based,1,1741.002650462963,0.0139698661961293,3.0,0.0
+sferik/twitter,Trunk-based,Trunk-based,1,1503.0380439814817,0.2925656429173423,4.0,0.0
+sh4nks/flaskbb,Feature Branching,Feature Branching,1,871.1868981481482,0.1527558029735614,3.0,90.82434027777778
+shadowsocks/shadowsocks,Feature Branching,Feature Branching,1,1329.7961805555556,0.5511314085918382,2.0,366.4462210648149
+shakacode/react_on_rails,Trunk-based,Trunk-based,1,349.1970138888889,0.4767968986519403,11.0,0.0
+sharetribe/sharetribe,Trunk-based,Trunk-based,1,1444.3431712962963,0.3261224965692706,254.0,0.0
+shazow/urllib3,Trunk-based,Trunk-based,2,1257.379375,0.9090936747503704,3.0,0.0555902777777777
+shoes/shoes4,Trunk-based,Trunk-based,1,1484.6742476851853,0.1453122725239289,82.0,0.9978877314814816
+shopspring/decimal,One Branch,One Branch,1,524.9021527777778,,0.0,
+shurcooL/gostatus,Trunk-based,Trunk-based,1,612.555162037037,0.0033643228578469,1.0,2.060833333333333
+siacs/Conversations,Trunk-based,Trunk-based,1,580.7416782407407,0.4016639123330496,5.0,1.0153935185185186
+silent1mezzo/jeeves-framework,One Branch,One Branch,1,213.9486921296296,,0.0,
+sivel/speedtest-cli,Feature Branching,Feature Branching,2,866.1413657407408,0.6703311518383726,1.0,251.90177083333333
+siyamed/android-shape-imageview,One Branch,One Branch,1,407.6096643518519,,0.0,
+sj26/mailcatcher,Trunk-based,Trunk-based,1,872.8463310185185,0.0,1.0,0.0
+sjwhitworth/golearn,One Branch,One Branch,1,786.0923148148148,7.983111963690062e-05,0.0,
+skippbox/kmachine,One Branch,One Branch,1,132.83972222222224,0.0,0.0,
+socialpandas/sidekiq-superworker,One Branch,One Branch,1,0.0,,0.0,
+soimort/you-get,Feature Branching,Feature Branching,2,1130.152789351852,0.915073501666508,1.0,1034.1728703703704
+solnic/virtus,Trunk-based,Trunk-based,1,1790.7189236111112,0.016655774276981,4.0,5.380162037037037
+sony/sonyflake,Trunk-based,Trunk-based,1,363.7326967592593,0.0,1.0,0.0
+sosedoff/pgweb,Trunk-based,Trunk-based,1,673.6509259259259,0.0919187078976775,6.0,0.0153530092592592
+soundcloud/roshi,Trunk-based,Trunk-based,1,600.7431481481482,0.0196418756644933,3.0,1.029074074074074
+sourcegraph/appdash,Trunk-based,Trunk-based,1,568.3419675925926,0.0368310427672306,13.0,0.0
+sourcegraph/srclib,Trunk-based,Trunk-based,1,766.0809027777777,0.2391034121934044,13.0,0.0965856481481481
+sparklemotion/mechanize,Trunk-based,Trunk-based,1,1435.1586226851853,0.0129572236840996,2.0,0.0
+sparklemotion/nokogiri,Trunk-based,Trunk-based,1,1522.856886574074,0.3412920411414538,5.0,0.0
+spf13/cobra,One Branch,One Branch,1,1071.0472685185184,,0.0,
+sphinx-doc/sphinx,Trunk-based,Trunk-based,2,605.8746990740741,0.9999802283101028,3.0,4.7041203703703705
+splattael/libnotify,Trunk-based,Trunk-based,1,1692.0084375,0.5827043946492229,1.0,0.0
+spotify/helios,Git Flow,Git Flow,3,67.8740625,0.8700907982666019,10.0,0.1258043981481481
+spotify/luigi,Trunk-based,Trunk-based,1,1209.6445601851851,0.126509891708509,12.0,0.0
+spree-contrib/spree_active_shipping,One Branch,One Branch,1,1719.9127546296295,0.3139436807403735,0.0,
+spree/spree,One Branch,One Branch,1,1807.644016203704,0.2279431618720661,0.0,
+spring-projects/spring-amqp,One Branch,One Branch,1,850.0275578703704,0.0285786758465796,0.0,
+spring-projects/spring-integration,One Branch,One Branch,2,805.9308796296297,0.6207098077924268,0.0,
+spring-projects/spring-integration-samples,One Branch,One Branch,1,119.89122685185184,,0.0,
+spring-projects/spring-security,One Branch,One Branch,1,168.11980324074074,0.0,0.0,
+sqlmapproject/sqlmap,Trunk-based,Trunk-based,1,183.46248842592595,4.214202885732204e-05,2.0,0.0
+square/android-times-square,Trunk-based,Trunk-based,1,865.2672106481482,0.0005341558010198,3.0,0.0
+square/assertj-android,One Branch,One Branch,1,1172.704849537037,0.0003454738752456,0.0,
+square/dagger,Trunk-based,Trunk-based,1,1313.2667592592593,0.3156088407893773,3.0,0.0
+square/javapoet,Trunk-based,Trunk-based,1,1279.0264467592592,0.0314446883134176,1.0,1.870613425925926
+square/keywhiz,Trunk-based,Trunk-based,2,519.0756481481482,0.7758489003868522,18.0,0.1272569444444444
+square/kochiku,Trunk-based,Trunk-based,1,817.6808564814814,0.0109471477498762,19.0,0.0
+square/leakcanary,One Branch,One Branch,1,409.02113425925927,1.7912005701507433e-05,0.0,
+square/okio,One Branch,One Branch,1,872.7661574074074,0.0026869788049904,0.0,
+square/otto,Trunk-based,Trunk-based,1,1200.7963657407408,0.1957037365808334,1.0,0.4584375
+square/p2,Trunk-based,Trunk-based,1,685.006724537037,5.019888541578085e-05,4.0,0.0098148148148148
+square/picasso,Trunk-based,Trunk-based,1,940.741087962963,0.1823662958785817,4.0,0.0
+square/tape,Trunk-based,Trunk-based,1,1420.85125,0.1658763621977135,2.0,0.0013078703703703
+square/wire,Trunk-based,Trunk-based,1,1082.2800462962964,0.3265493300772901,10.0,0.0
+srsudar/eg,Trunk-based,Trunk-based,1,468.9550810185185,0.0,1.0,0.0
+statsmodels/statsmodels,Trunk-based,Trunk-based,1,1383.0947916666669,0.0801289948007265,4.0,0.0
+stefankroes/ancestry,One Branch,One Branch,1,974.1379166666668,0.0,0.0,
+stephenmcd/mezzanine,Trunk-based,Trunk-based,1,1645.8265856481482,0.4543862370406202,6.0,0.0
+stripe/stripe-go,Trunk-based,Trunk-based,1,734.3531828703703,0.0148186120265353,5.0,0.0901504629629629
+structr/structr,Feature Branching,Feature Branching,2,978.1071412037036,0.7289404420199034,1.0,712.9818518518518
+stympy/faker,One Branch,One Branch,1,1405.8264930555556,0.0,0.0,
+sunpy/sunpy,Git Flow,Git Flow,3,1490.174861111111,0.7259663039171671,2.0,263.3433449074074
+supermarin/xcpretty,Trunk-based,Trunk-based,1,980.5833564814816,0.0306731624535385,7.0,0.0
+svenfuchs/rails-i18n,One Branch,One Branch,2,1615.4412962962963,0.7899844016937007,0.0,
+swagger-api/swagger-core,One Branch,One Branch,1,1234.8793171296295,0.39938228519163,0.0,
+taigaio/taiga-back,Trunk-based,Trunk-based,2,1048.803287037037,0.847687935866588,37.0,0.0
+taskgraph/taskgraph,One Branch,One Branch,1,240.8088078703704,0.1827450132969615,0.0,
+tcurdt/jdeb,One Branch,One Branch,1,1471.2580555555555,0.0,0.0,
+tdryer/hangups,Trunk-based,Trunk-based,1,698.9975810185185,0.0716051695126706,4.0,0.8667708333333334
+technicalpickles/jeweler,Trunk-based,Trunk-based,1,1541.3008101851851,8.77085019951056e-06,1.0,0.0
+terasolunaorg/guideline,Trunk-based,Git Flow,3,321.5201851851852,0.9965441948521172,40.0,0.0488715277777777
+thejerf/suture,Trunk-based,Trunk-based,1,823.0480555555556,0.0,1.0,0.0
+thinkaurelius/titan,One Branch,One Branch,1,747.9955208333333,0.0042026364506013,0.0,
+thoas/picfit,One Branch,One Branch,1,539.7738425925926,0.0061638683553597,0.0,
+thoughtbot/bourbon,Trunk-based,Trunk-based,1,129.73804398148147,6.030670598973163e-05,1.0,0.0
+thoughtbot/factory_girl,One Branch,One Branch,1,1857.717789351852,2.093369031173299e-06,0.0,
+thoughtbot/factory_girl_rails,One Branch,One Branch,1,1325.6363425925929,,0.0,
+thoughtbot/high_voltage,Trunk-based,Trunk-based,1,1721.8025810185186,0.1185140723435548,2.0,0.0
+thoughtbot/hound,Trunk-based,Trunk-based,2,427.9920486111111,0.68957889139566,10.0,0.0
+thoughtbot/paperclip,Trunk-based,Trunk-based,1,1867.045625,0.2572008663766932,8.0,0.0
+thoughtbot/shoulda-matchers,Trunk-based,Trunk-based,1,1745.5408680555556,0.0640507789653518,48.0,0.0
+thoughtbot/suspenders,Trunk-based,Trunk-based,1,1761.3427083333331,0.193521560420452,14.0,0.0
+threerings/tripleplay,Trunk-based,Trunk-based,1,1038.7964930555556,0.062617456273991,2.0,0.0
+thumbor/thumbor,Trunk-based,Trunk-based,2,1619.279027777778,0.7576398098067593,7.0,0.0
+tildaslash/RatticWeb,One Branch,One Branch,1,875.4068287037037,0.0003228657575214,0.0,
+timothycrosley/hug,Trunk-based,Trunk-based,2,378.20346064814817,0.7658564817542144,2.0,1.7241493055555557
+tony/tmuxp,Trunk-based,Trunk-based,1,1017.3261342592592,0.0123721204612973,4.0,1.5605555555555557
+tools/godep,Trunk-based,Trunk-based,1,395.0436805555556,0.4503585427467086,2.0,0.4861631944444444
+topazproject/topaz,Trunk-based,Trunk-based,1,1245.6550694444445,0.1069642833880782,6.0,0.0426446759259259
+toptal/chewy,Trunk-based,Trunk-based,1,967.963101851852,0.0013057679396736,1.0,0.0
+toy/image_optim,Trunk-based,Trunk-based,1,1185.1262037037036,0.0266196450557734,4.0,0.1067013888888888
+translate/pootle,Trunk-based,Trunk-based,1,1425.842777777778,0.4698641518187229,2.0,0.0
+translate/translate,Feature Branching,Feature Branching,1,1425.889224537037,0.3924879267793491,4.0,34.10603009259259
+travis-ci/travis-api,Trunk-based,Trunk-based,2,1486.6632060185186,0.7153947348578857,6.0,0.0
+travis-ci/travis-build,Trunk-based,Trunk-based,1,1787.852534722222,0.157554060223256,41.0,0.0596412037037037
+travis-ci/travis-cookbooks,Trunk-based,Trunk-based,1,1195.0040277777778,0.3523887278080226,19.0,0.3759837962962963
+travis-ci/travis-core,Trunk-based,Trunk-based,1,1728.8734490740742,0.0737080677388761,43.0,0.6959837962962963
+travis-ci/travis-worker,Trunk-based,Trunk-based,1,1818.025891203704,0.5078491763269604,14.0,1.1638541666666666
+travis-ci/worker,Trunk-based,Trunk-based,1,634.6838888888889,0.0850362625839109,12.0,3.987309027777778
+troessner/reek,Trunk-based,Trunk-based,1,1556.043912037037,0.2121431460721327,22.0,0.0
+trulia/hologram,Trunk-based,Trunk-based,1,808.3017361111112,4.299996262740511e-05,1.0,0.0347569444444444
+tschellenbach/Stream-Framework,Trunk-based,Trunk-based,1,1106.3895254629629,0.0388301831151134,1.0,0.0
+tsenart/vegeta,Trunk-based,Trunk-based,1,1083.654074074074,0.0032747889855516,7.0,0.0
+tsengvn/typekit,One Branch,One Branch,1,35.220787037037034,,0.0,
+tsuru/tsuru,Trunk-based,Trunk-based,1,1427.3673611111112,0.2768094087356822,9.0,0.0107754629629629
+twbs/bootstrap-sass,Trunk-based,Trunk-based,1,1534.030300925926,0.4972394643262168,3.0,0.0
+tweepy/tweepy,Trunk-based,Trunk-based,1,1382.2944675925926,0.1852950528225506,1.0,0.0
+twisted/twisted,Trunk-based,Trunk-based,1,98.49612268518518,0.3959060242195564,26.0,0.073605324074074
+twitter/commons,Trunk-based,Trunk-based,1,1451.0702546296295,0.2071552550571908,5.0,0.0
+twitter/heron,One Branch,One Branch,1,97.87737268518518,0.5263245711488239,0.0,
+typetools/checker-framework,Trunk-based,Trunk-based,1,404.79469907407406,0.2287007800193182,21.0,2.625486111111111
+typhoeus/typhoeus,Trunk-based,Trunk-based,1,1543.8623032407406,0.1024383343892744,1.0,0.0580902777777777
+tyzlmjj/PagerBottomTabStrip,One Branch,One Branch,1,86.19434027777778,0.0013999909496077,0.0,
+tzutalin/Android-Object-Detection,One Branch,One Branch,1,50.04780092592593,,0.0,
+uber/go-torch,Trunk-based,Trunk-based,1,316.7429050925926,0.0154071824886311,1.0,4.880115740740741
+uber/tchannel-go,Git Flow,Git Flow,3,325.04560185185187,0.8155878056996275,21.0,0.0
+uken/fluent-plugin-elasticsearch,Trunk-based,Trunk-based,1,1283.7436342592594,2.9788455981560727e-05,2.0,0.0
+unitedstates/contact-congress,Feature Branching,Feature Branching,1,867.250011574074,0.0207202147496848,1.0,17.96960648148148
+urfave/cli,Trunk-based,Trunk-based,1,1135.1761111111111,0.1040758727108911,4.0,0.0
+v2ray/v2ray-core,Trunk-based,Trunk-based,1,356.78318287037035,0.008676715067154,2.0,0.0
+vaadin/vaadin-grid,One Branch,One Branch,2,460.9524537037037,0.7531350646452348,0.0,
+vaidik/sherlock,One Branch,One Branch,1,751.5958680555556,0.0,0.0,
+valyala/fasthttp,One Branch,One Branch,1,271.9620601851852,0.0,0.0,
+vcr/vcr,Trunk-based,Trunk-based,1,1317.5333912037038,0.0237685925540312,17.0,0.0
+vektra/templar,One Branch,One Branch,1,57.46961805555556,,0.0,
+venmo/synx,Trunk-based,Trunk-based,1,794.8187962962963,0.001027851910807,3.0,0.1570949074074074
+victorcoder/dkron,Trunk-based,Trunk-based,1,357.40681712962964,0.1355137600777773,10.0,2.546950231481482
+vispy/vispy,Trunk-based,Trunk-based,1,888.4287384259259,0.1551791074970932,4.0,0.1486921296296296
+vkostyukov/la4j,Trunk-based,Trunk-based,1,1346.054537037037,0.0051868667750446,1.0,0.0157060185185185
+vmware/govmomi,Trunk-based,Trunk-based,2,737.9711111111111,0.7247879508984092,1.0,0.0
+vmware/harbor,Trunk-based,Trunk-based,1,174.48828703703705,0.5157771520798781,1.0,5.963125
+wbond/package_control_channel,Feature Branching,Feature Branching,1,1122.1971412037035,0.1629743003847868,2.0,91.44464699074074
+weaveworks/weave,Trunk-based,Git Flow,3,371.21375,0.9081242438312656,69.0,0.0
+webpy/webpy,Feature Branching,Feature Branching,1,1617.7274652777778,0.0239570394148518,1.0,38.75596064814815
+weecology/retriever,Trunk-based,Trunk-based,1,1103.690162037037,0.0020913637468077,1.0,0.0
+weld/core,One Branch,One Branch,2,837.9692476851852,0.7281836546446895,0.0,
+whomwah/rqrcode,One Branch,One Branch,1,251.081238425926,0.0016353346607097,0.0,
+worker8/TourGuide,Feature Branching,Feature Branching,1,392.0118055555556,0.4521623675590835,1.0,177.2529861111111
+wpscanteam/wpscan,Trunk-based,Trunk-based,1,1314.801574074074,0.0385289619465886,2.0,0.2079976851851852
+wvanbergen/request-log-analyzer,Trunk-based,Trunk-based,1,1608.8225810185186,0.0004689419786529,2.0,0.0482696759259259
+xav/Grapefruit,One Branch,One Branch,2,6.4115625,0.6973783258327783,0.0,
+xeipuuv/gojsonschema,Trunk-based,Trunk-based,1,587.6016319444444,0.0060898448595801,1.0,3.578402777777778
+xenolf/lego,Trunk-based,Trunk-based,1,443.1735300925926,0.1490724269788872,1.0,1.0709375
+xetorthio/jedis,Feature Branching,Feature Branching,2,917.2402314814816,0.6439924786455586,4.0,12.165677083333334
+xiprox/WaniKani-for-Android,One Branch,One Branch,1,165.89709490740742,,0.0,
+xonsh/xonsh,Trunk-based,Trunk-based,1,532.6927546296296,0.5520472788345133,6.0,2.4144733796296296
+yegor256/takes,One Branch,One Branch,1,553.7929050925926,0.0020456779673893,0.0,
+zaproxy/zaproxy,One Branch,One Branch,3,443.4391898148148,0.9758264434875696,0.0,
+zenazn/goji,One Branch,One Branch,1,853.309212962963,0.0007990405978814,0.0,
+zendesk/samson,One Branch,One Branch,1,826.2033796296296,0.1933881600200112,0.0,
+zerobotlabs/relax,One Branch,One Branch,1,288.6603240740741,0.0003253776264971,0.0,
+zeromq/pyzmq,Trunk-based,Trunk-based,1,1535.0755671296297,0.0,5.0,0.0
+zmap/zgrab,Trunk-based,Trunk-based,1,479.8087615740741,0.0235883668640454,2.0,6.232424768518519
+zulip/zulip,Trunk-based,Trunk-based,1,338.0215972222222,1.2258147268011652e-05,1.0,0.0
+zxing/zxing,Trunk-based,Trunk-based,1,954.4959375,0.1552132622258968,1.0,0.0
+pallets/werkzeug,One Branch,One Branch,1,1189.6231944444444,0.4968218616998278,0.0,

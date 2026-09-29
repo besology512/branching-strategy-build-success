@@ -1,0 +1,5 @@
+strategy,projects,precision,recall,f1
+One Branch,397,0.987,0.967,0.977
+Trunk-based,447,0.978,0.984,0.981
+Feature Branching,82,0.953,1.0,0.976
+Git Flow,22,0.783,0.818,0.8

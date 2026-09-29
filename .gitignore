@@ -1,0 +1,22 @@
+# raw datasets and regenerable caches (GBs; see chapters/1_data)
+data/raw/
+data/cache/
+logs/
+results/2_labeling/timelines/
+results/2_labeling/review_progress.csv
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
+.venv/
+venv/
+
+# secrets — never commit tokens or API keys
+.env
+*.env
+
+# regenerated copies of data/derived/ (written only to check reproduction)
+results/2_labeling/travis_rule_labels.csv
+results/2_labeling/ghalogs_rule_labels.csv

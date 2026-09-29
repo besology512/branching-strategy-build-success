@@ -1,0 +1,7 @@
+label,builds,branches,share_of_builds_pct
+long_lived_name_pattern,3058602,471,78.8
+long_lived_lifetime_threshold,424066,4177,10.9
+short_lived_cluster,283760,55894,7.3
+long_lived_cluster,111496,2116,2.9
+short_lived_merge_lifecycle,2637,100,0.1
+short_lived_pr_focused,1431,71,0.0

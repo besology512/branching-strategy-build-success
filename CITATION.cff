@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Branching strategy and CI build success: code, data and analyses"
+authors:
+  - family-names: Moussa
+    given-names: Hanan
+    affiliation: "Cairo University; The American University in Cairo"
+  - family-names: Atta
+    given-names: Ahmed B.
+    affiliation: "Zewail City of Science, Technology and Innovation; King Fahd University of Petroleum and Minerals"
+  - family-names: Hamouda
+    given-names: Esraa
+    affiliation: "Cairo University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Assessing Impact of the Branching Strategy on Build Success of Software Projects"
+  authors:
+    - family-names: Moussa
+      given-names: Hanan
+    - family-names: Atta
+      given-names: Ahmed B.
+    - family-names: Hamouda
+      given-names: Esraa
+  journal: "IEEE Access"
+  year: 2026
+  notes: "Accepted; DOI to be added on publication."

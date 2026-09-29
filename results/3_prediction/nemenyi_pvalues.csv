@@ -1,0 +1,73 @@
+model_a,model_b,p_value,dataset
+Random Forest,Random Forest,1.0,TravisTorrent
+Random Forest,XGBoost,0.9589973903152619,TravisTorrent
+Random Forest,LightGBM,0.9589973903152619,TravisTorrent
+Random Forest,CatBoost,0.11389055397421644,TravisTorrent
+Random Forest,AdaBoost,0.009435288646924445,TravisTorrent
+Random Forest,GBDT,0.5381926756595736,TravisTorrent
+XGBoost,Random Forest,0.9589973903152619,TravisTorrent
+XGBoost,XGBoost,1.0,TravisTorrent
+XGBoost,LightGBM,0.5381926756595736,TravisTorrent
+XGBoost,CatBoost,0.5381926756595736,TravisTorrent
+XGBoost,AdaBoost,0.11389055397421644,TravisTorrent
+XGBoost,GBDT,0.9589973903152619,TravisTorrent
+LightGBM,Random Forest,0.9589973903152619,TravisTorrent
+LightGBM,XGBoost,0.5381926756595736,TravisTorrent
+LightGBM,LightGBM,1.0,TravisTorrent
+LightGBM,CatBoost,0.009435288646924445,TravisTorrent
+LightGBM,AdaBoost,0.00034275609268519247,TravisTorrent
+LightGBM,GBDT,0.11389055397421644,TravisTorrent
+CatBoost,Random Forest,0.11389055397421644,TravisTorrent
+CatBoost,XGBoost,0.5381926756595736,TravisTorrent
+CatBoost,LightGBM,0.009435288646924445,TravisTorrent
+CatBoost,CatBoost,1.0,TravisTorrent
+CatBoost,AdaBoost,0.9589973903152619,TravisTorrent
+CatBoost,GBDT,0.9589973903152619,TravisTorrent
+AdaBoost,Random Forest,0.009435288646924445,TravisTorrent
+AdaBoost,XGBoost,0.11389055397421644,TravisTorrent
+AdaBoost,LightGBM,0.00034275609268519247,TravisTorrent
+AdaBoost,CatBoost,0.9589973903152619,TravisTorrent
+AdaBoost,AdaBoost,1.0,TravisTorrent
+AdaBoost,GBDT,0.5381926756595736,TravisTorrent
+GBDT,Random Forest,0.5381926756595736,TravisTorrent
+GBDT,XGBoost,0.9589973903152619,TravisTorrent
+GBDT,LightGBM,0.11389055397421644,TravisTorrent
+GBDT,CatBoost,0.9589973903152619,TravisTorrent
+GBDT,AdaBoost,0.5381926756595736,TravisTorrent
+GBDT,GBDT,1.0,TravisTorrent
+Random Forest,Random Forest,1.0,GHALogs
+Random Forest,XGBoost,0.9589973903152619,GHALogs
+Random Forest,LightGBM,0.5381926756595736,GHALogs
+Random Forest,CatBoost,0.5381926756595736,GHALogs
+Random Forest,AdaBoost,0.11389055397421644,GHALogs
+Random Forest,GBDT,0.9589973903152619,GHALogs
+XGBoost,Random Forest,0.9589973903152619,GHALogs
+XGBoost,XGBoost,1.0,GHALogs
+XGBoost,LightGBM,0.9589973903152619,GHALogs
+XGBoost,CatBoost,0.11389055397421644,GHALogs
+XGBoost,AdaBoost,0.009435288646924445,GHALogs
+XGBoost,GBDT,0.5381926756595736,GHALogs
+LightGBM,Random Forest,0.5381926756595736,GHALogs
+LightGBM,XGBoost,0.9589973903152619,GHALogs
+LightGBM,LightGBM,1.0,GHALogs
+LightGBM,CatBoost,0.009435288646924445,GHALogs
+LightGBM,AdaBoost,0.00034275609268519247,GHALogs
+LightGBM,GBDT,0.11389055397421644,GHALogs
+CatBoost,Random Forest,0.5381926756595736,GHALogs
+CatBoost,XGBoost,0.11389055397421644,GHALogs
+CatBoost,LightGBM,0.009435288646924445,GHALogs
+CatBoost,CatBoost,1.0,GHALogs
+CatBoost,AdaBoost,0.9589973903152619,GHALogs
+CatBoost,GBDT,0.9589973903152619,GHALogs
+AdaBoost,Random Forest,0.11389055397421644,GHALogs
+AdaBoost,XGBoost,0.009435288646924445,GHALogs
+AdaBoost,LightGBM,0.00034275609268519247,GHALogs
+AdaBoost,CatBoost,0.9589973903152619,GHALogs
+AdaBoost,AdaBoost,1.0,GHALogs
+AdaBoost,GBDT,0.5381926756595736,GHALogs
+GBDT,Random Forest,0.9589973903152619,GHALogs
+GBDT,XGBoost,0.5381926756595736,GHALogs
+GBDT,LightGBM,0.11389055397421644,GHALogs
+GBDT,CatBoost,0.9589973903152619,GHALogs
+GBDT,AdaBoost,0.5381926756595736,GHALogs
+GBDT,GBDT,1.0,GHALogs

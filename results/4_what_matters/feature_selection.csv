@@ -1,0 +1,16 @@
+dataset,top_k,auc_roc,branching_kept,branching_names
+GHALogs,5,0.7316218397341633,2,"avg_branch_life_sec, max_branch_life_sec"
+GHALogs,10,0.7461354541682146,7,"avg_branch_life_sec, max_branch_life_sec, std_branch_life_sec, feeder_count, median_feeder_seconds, min_branch_life_sec, long_lived_count"
+GHALogs,15,0.7712291289484303,7,"avg_branch_life_sec, max_branch_life_sec, std_branch_life_sec, feeder_count, median_feeder_seconds, min_branch_life_sec, long_lived_count"
+GHALogs,20,0.7775960325547263,7,"avg_branch_life_sec, max_branch_life_sec, std_branch_life_sec, feeder_count, median_feeder_seconds, min_branch_life_sec, long_lived_count"
+GHALogs,25,0.7767621178567574,7,"avg_branch_life_sec, max_branch_life_sec, std_branch_life_sec, feeder_count, median_feeder_seconds, min_branch_life_sec, long_lived_count"
+GHALogs,30,0.7774774527640611,7,"avg_branch_life_sec, max_branch_life_sec, std_branch_life_sec, feeder_count, median_feeder_seconds, min_branch_life_sec, long_lived_count"
+GHALogs,47,0.778059996957621,7,
+TravisTorrent,5,0.8703742390834873,0,
+TravisTorrent,10,0.8894261462710028,2,"num_feeder_branches, median_feeder_lifetime_days"
+TravisTorrent,15,0.9156262715126282,2,"num_feeder_branches, median_feeder_lifetime_days"
+TravisTorrent,20,0.9176658525111341,3,"num_feeder_branches, median_feeder_lifetime_days, num_long_lived"
+TravisTorrent,25,0.918684393539662,3,"num_feeder_branches, median_feeder_lifetime_days, num_long_lived"
+TravisTorrent,30,0.9190831019252147,3,"num_feeder_branches, median_feeder_lifetime_days, num_long_lived"
+TravisTorrent,35,0.9180169233100381,3,"num_feeder_branches, median_feeder_lifetime_days, num_long_lived"
+TravisTorrent,43,0.9186873372559851,3,

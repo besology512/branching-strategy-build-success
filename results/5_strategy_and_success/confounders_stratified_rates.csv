@@ -1,0 +1,89 @@
+stratum,strategy,builds,projects,success_rate,dataset,stratifier
+Go,Feature Branching,15618,13,0.7571391983608656,TravisTorrent,language
+Go,Git Flow,6389,3,0.8993582720300517,TravisTorrent,language
+Go,One Branch,85671,98,0.841579997898939,TravisTorrent,language
+Go,Trunk-based,147680,84,0.7905403575297941,TravisTorrent,language
+Java,Feature Branching,28314,20,0.7220809493536766,TravisTorrent,language
+Java,Git Flow,12416,8,0.7727931701030928,TravisTorrent,language
+Java,One Branch,106382,123,0.6721625838957719,TravisTorrent,language
+Java,Trunk-based,254655,90,0.7095599929316133,TravisTorrent,language
+Python,Feature Branching,164251,38,0.708306189916652,TravisTorrent,language
+Python,Git Flow,196232,7,0.5102174976558359,TravisTorrent,language
+Python,One Branch,222871,95,0.8558807561324713,TravisTorrent,language
+Python,Trunk-based,937613,121,0.751778185669354,TravisTorrent,language
+Ruby,Feature Branching,246008,11,0.6787868687197164,TravisTorrent,language
+Ruby,Git Flow,12490,4,0.8643714971977582,TravisTorrent,language
+Ruby,One Branch,321338,81,0.7100218461557612,TravisTorrent,language
+Ruby,Trunk-based,1124064,152,0.7153489481025992,TravisTorrent,language
+small (≤11),Feature Branching,114521,68,0.7031374158451288,TravisTorrent,team_band
+small (≤11),Git Flow,14076,14,0.7807615799943166,TravisTorrent,team_band
+small (≤11),One Branch,358127,349,0.7448726289835729,TravisTorrent,team_band
+small (≤11),Trunk-based,866969,337,0.6954850750142162,TravisTorrent,team_band
+medium (11–23),Feature Branching,94422,29,0.7021456863866472,TravisTorrent,team_band
+medium (11–23),Git Flow,30254,9,0.6999405037350434,TravisTorrent,team_band
+medium (11–23),One Branch,214051,103,0.778763005078229,TravisTorrent,team_band
+medium (11–23),Trunk-based,960855,209,0.7640153821336205,TravisTorrent,team_band
+large (>23),Feature Branching,245248,12,0.6881809433716075,TravisTorrent,team_band
+large (>23),Git Flow,183197,7,0.5136110307483202,TravisTorrent,team_band
+large (>23),One Branch,164084,41,0.7865422588430316,TravisTorrent,team_band
+large (>23),Trunk-based,636188,92,0.7377426169622816,TravisTorrent,team_band
+young (≤2.6 y),Feature Branching,78714,66,0.7325380491399243,TravisTorrent,maturity_band
+young (≤2.6 y),Git Flow,21885,16,0.8342700479780671,TravisTorrent,maturity_band
+young (≤2.6 y),One Branch,270761,305,0.8170342109831179,TravisTorrent,maturity_band
+young (≤2.6 y),Trunk-based,910251,349,0.7750016204321665,TravisTorrent,maturity_band
+mid (2.6–5.4 y),Feature Branching,130146,52,0.6767707036712615,TravisTorrent,maturity_band
+mid (2.6–5.4 y),Git Flow,38871,11,0.6606724807697255,TravisTorrent,maturity_band
+mid (2.6–5.4 y),One Branch,296054,187,0.7356765995392732,TravisTorrent,maturity_band
+mid (2.6–5.4 y),Trunk-based,826715,289,0.7124462481024295,TravisTorrent,maturity_band
+mature (>5.4 y),Feature Branching,245331,17,0.6923584871051762,TravisTorrent,maturity_band
+mature (>5.4 y),Git Flow,166771,5,0.49360500326795426,TravisTorrent,maturity_band
+mature (>5.4 y),One Branch,169447,94,0.7287942542505916,TravisTorrent,maturity_band
+mature (>5.4 y),Trunk-based,727046,133,0.7041906564371443,TravisTorrent,maturity_band
+C++,Feature Branching,60,3,0.9833333333333333,GHALogs,language
+C++,Git Flow,1687,39,0.8073503260225252,GHALogs,language
+C++,One Branch,6797,520,0.8255112549654259,GHALogs,language
+C++,Trunk-based,37207,1611,0.8355954524686215,GHALogs,language
+Go,Feature Branching,42,3,0.8571428571428571,GHALogs,language
+Go,Git Flow,4371,72,0.8208647906657516,GHALogs,language
+Go,One Branch,3185,301,0.8376766091051805,GHALogs,language
+Go,Trunk-based,70794,2600,0.8505099302200751,GHALogs,language
+JavaScript,Feature Branching,145,6,0.9379310344827586,GHALogs,language
+JavaScript,Git Flow,2188,55,0.8542047531992687,GHALogs,language
+JavaScript,One Branch,5511,618,0.8597350753039376,GHALogs,language
+JavaScript,Trunk-based,40504,2117,0.8474224767924156,GHALogs,language
+Other,Feature Branching,388,22,0.8530927835051546,GHALogs,language
+Other,Git Flow,11454,240,0.8341190850357953,GHALogs,language
+Other,One Branch,22621,2236,0.8321913266433845,GHALogs,language
+Other,Trunk-based,163566,8169,0.8451634202707164,GHALogs,language
+Python,Feature Branching,373,13,0.871313672922252,GHALogs,language
+Python,Git Flow,4699,124,0.8067673973185784,GHALogs,language
+Python,One Branch,11695,1071,0.820265070542967,GHALogs,language
+Python,Trunk-based,94073,4373,0.8345859066894858,GHALogs,language
+TypeScript,Feature Branching,194,9,0.8556701030927835,GHALogs,language
+TypeScript,Git Flow,6105,153,0.8230958230958231,GHALogs,language
+TypeScript,One Branch,5718,562,0.8534452605806226,GHALogs,language
+TypeScript,Trunk-based,80616,3736,0.8422149449240846,GHALogs,language
+small (≤20),Feature Branching,486,26,0.8847736625514403,GHALogs,team_band
+small (≤20),Git Flow,6412,194,0.8215845290081097,GHALogs,team_band
+small (≤20),One Branch,33126,3200,0.8295900501116947,GHALogs,team_band
+small (≤20),Trunk-based,151577,8832,0.8431754157952723,GHALogs,team_band
+medium (20–64),Feature Branching,602,23,0.8704318936877077,GHALogs,team_band
+medium (20–64),Git Flow,10495,255,0.8233444497379705,GHALogs,team_band
+medium (20–64),One Branch,14774,1348,0.8346419385406796,GHALogs,team_band
+medium (20–64),Trunk-based,166272,7711,0.8428298210161663,GHALogs,team_band
+large (>64),Feature Branching,114,7,0.868421052631579,GHALogs,team_band
+large (>64),Git Flow,13597,234,0.8295947635507832,GHALogs,team_band
+large (>64),One Branch,7617,758,0.852435341998162,GHALogs,team_band
+large (>64),Trunk-based,168759,6054,0.8427106109896361,GHALogs,team_band
+young (≤3.4 y),Feature Branching,345,17,0.8869565217391304,GHALogs,maturity_band
+young (≤3.4 y),Git Flow,10650,249,0.8100469483568075,GHALogs,maturity_band
+young (≤3.4 y),One Branch,19675,1871,0.8373062261753494,GHALogs,maturity_band
+young (≤3.4 y),Trunk-based,162610,7359,0.8344997232642519,GHALogs,maturity_band
+mid (3.4–6.3 y),Feature Branching,544,20,0.8841911764705882,GHALogs,maturity_band
+mid (3.4–6.3 y),Git Flow,10760,236,0.829368029739777,GHALogs,maturity_band
+mid (3.4–6.3 y),One Branch,17879,1700,0.8223054980703619,GHALogs,maturity_band
+mid (3.4–6.3 y),Trunk-based,161820,7228,0.8399765171177852,GHALogs,maturity_band
+mature (>6.3 y),Feature Branching,313,19,0.8498402555910544,GHALogs,maturity_band
+mature (>6.3 y),Git Flow,9094,198,0.8398944358917968,GHALogs,maturity_band
+mature (>6.3 y),One Branch,17973,1737,0.8423190341067156,GHALogs,maturity_band
+mature (>6.3 y),Trunk-based,162330,8019,0.8541243146676523,GHALogs,maturity_band
