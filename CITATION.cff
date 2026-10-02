@@ -12,6 +12,7 @@ authors:
     given-names: Esraa
     affiliation: "Cairo University"
 license: MIT
+repository-code: "https://github.com/besology512/branching-strategy-build-success"
 preferred-citation:
   type: article
   title: "Assessing Impact of the Branching Strategy on Build Success of Software Projects"

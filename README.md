@@ -101,7 +101,7 @@ Every table and figure of the paper is mapped to the script that produces it in
 ## Reproduce it
 
 ```bash
-git clone <this repository> && cd branching-strategy-build-success
+git clone https://github.com/besology512/branching-strategy-build-success.git && cd branching-strategy-build-success
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 # download the two datasets into data/raw/  (see chapters/1_data)
@@ -133,7 +133,7 @@ branching-strategy-build-success/
   author  = {Moussa, Hanan and Atta, Ahmed B. and Hamouda, Esraa},
   journal = {IEEE Access},
   year    = {2026},
-  note    = {Accepted}
+  note    = {Accepted. Code and data: \url{https://github.com/besology512/branching-strategy-build-success}}
 }
 ```
 
