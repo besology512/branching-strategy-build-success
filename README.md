@@ -2,9 +2,11 @@
 
 # Does the way you branch change whether your build passes?
 
-**Code, data and the full story behind**
+**Supplementary material for**
 *"Assessing Impact of the Branching Strategy on Build Success of Software Projects"*
 Hanan Moussa · Ahmed B. Atta · Esraa Hamouda — *IEEE Access*, 2026 (accepted)
+
+Code, data and the full story behind every table and figure in the paper
 
 **4.5 million CI builds** · **29,606 projects** · **Travis CI 2011–2016 and GitHub Actions 2023**
 
