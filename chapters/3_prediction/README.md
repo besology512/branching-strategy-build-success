@@ -52,12 +52,12 @@ separates the models. The TravisTorrent scores are optimistic because SMOTE ran 
 the split ([limitations](../../docs/limitations.md#about-the-models)). Compare the models
 with each other, not with other studies.
 
-**Reproduction.** Random Forest, GBDT, AdaBoost and LightGBM reproduce Table 3 to four
-decimals, and Random Forest, GBDT and AdaBoost reproduce Table 4. XGBoost and CatBoost
-differ by at most 0.0011 AUC-ROC on either dataset, because their training is not
-bit-for-bit deterministic across library versions and hardware. On GHALogs, LightGBM
-gives 0.7781. That matches the same model in the paper's ablation (Table 9), whereas
-Table 4 prints 0.7770 from an earlier run. The ranking of the models is unchanged.
+**Reproduction.** Random Forest, GBDT, AdaBoost and LightGBM reproduce Tables 3 and 4 to
+four decimals. XGBoost and CatBoost differ by at most 0.0011 AUC-ROC on either dataset,
+because their training is not bit-for-bit deterministic across library versions and
+hardware. (Before the final revision, Table 4 printed the GHALogs LightGBM row from an
+earlier run, 0.7770. The final manuscript reports 0.7781, the value this code
+reproduces.)
 
 ## Are the differences real?
 
